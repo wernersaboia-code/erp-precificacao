@@ -34,7 +34,7 @@ import java.util.Optional;
 @Slf4j
 @RestController
 @RequestMapping("/api/produtos")
-@CrossOrigin(origins = "*")
+//@CrossOrigin(origins = "*")
 public class ProdutoController {
 
     @Autowired

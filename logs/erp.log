@@ -1,23 +1,23 @@
-2025-11-26 18:52:32 [restartedMain] INFO  c.e.p.PrecificacaoApplication - Starting PrecificacaoApplication using Java 25 with PID 8840 (C:\Users\werne\IdeaProjects\erp-precificacao\backend\target\classes started by werne in C:\Users\werne\IdeaProjects\erp-precificacao)
-2025-11-26 18:52:32 [restartedMain] INFO  c.e.p.PrecificacaoApplication - No active profile set, falling back to 1 default profile: "default"
-2025-11-26 18:52:32 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
-2025-11-26 18:52:32 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
-2025-11-26 18:52:33 [restartedMain] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
-2025-11-26 18:52:33 [restartedMain] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 61 ms. Found 1 JPA repository interface.
-2025-11-26 18:52:34 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port 8080 (http)
-2025-11-26 18:52:34 [restartedMain] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
-2025-11-26 18:52:34 [restartedMain] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.49]
-2025-11-26 18:52:34 [restartedMain] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
-2025-11-26 18:52:34 [restartedMain] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1889 ms
-2025-11-26 18:52:34 [restartedMain] INFO  o.h.jpa.internal.util.LogHelper - HHH000204: Processing PersistenceUnitInfo [name: default]
-2025-11-26 18:52:34 [restartedMain] INFO  org.hibernate.Version - HHH000412: Hibernate ORM core version 6.6.36.Final
-2025-11-26 18:52:34 [restartedMain] INFO  o.h.c.i.RegionFactoryInitiator - HHH000026: Second-level cache disabled
-2025-11-26 18:52:35 [restartedMain] INFO  o.s.o.j.p.SpringPersistenceUnitInfo - No LoadTimeWeaver setup: ignoring JPA class transformer
-2025-11-26 18:52:35 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
-2025-11-26 18:52:35 [restartedMain] INFO  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Added connection conn0: url=jdbc:h2:mem:testdb user=SA
-2025-11-26 18:52:35 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
-2025-11-26 18:52:35 [restartedMain] WARN  org.hibernate.orm.deprecation - HHH90000025: H2Dialect does not need to be specified explicitly using 'hibernate.dialect' (remove the property setting and it will be selected by default)
-2025-11-26 18:52:35 [restartedMain] INFO  o.hibernate.orm.connections.pooling - HHH10001005: Database info:
+2025-11-27 12:38:49 [restartedMain] INFO  c.e.p.PrecificacaoApplication - Starting PrecificacaoApplication using Java 25 with PID 13896 (C:\Users\werne\IdeaProjects\erp-precificacao\backend\target\classes started by werne in C:\Users\werne\IdeaProjects\erp-precificacao)
+2025-11-27 12:38:49 [restartedMain] INFO  c.e.p.PrecificacaoApplication - No active profile set, falling back to 1 default profile: "default"
+2025-11-27 12:38:49 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2025-11-27 12:38:49 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2025-11-27 12:38:50 [restartedMain] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2025-11-27 12:38:50 [restartedMain] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 61 ms. Found 1 JPA repository interface.
+2025-11-27 12:38:51 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port 8080 (http)
+2025-11-27 12:38:51 [restartedMain] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2025-11-27 12:38:51 [restartedMain] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.49]
+2025-11-27 12:38:51 [restartedMain] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2025-11-27 12:38:51 [restartedMain] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1880 ms
+2025-11-27 12:38:51 [restartedMain] INFO  o.h.jpa.internal.util.LogHelper - HHH000204: Processing PersistenceUnitInfo [name: default]
+2025-11-27 12:38:51 [restartedMain] INFO  org.hibernate.Version - HHH000412: Hibernate ORM core version 6.6.36.Final
+2025-11-27 12:38:51 [restartedMain] INFO  o.h.c.i.RegionFactoryInitiator - HHH000026: Second-level cache disabled
+2025-11-27 12:38:52 [restartedMain] INFO  o.s.o.j.p.SpringPersistenceUnitInfo - No LoadTimeWeaver setup: ignoring JPA class transformer
+2025-11-27 12:38:52 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2025-11-27 12:38:52 [restartedMain] INFO  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Added connection conn0: url=jdbc:h2:mem:testdb user=SA
+2025-11-27 12:38:52 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2025-11-27 12:38:52 [restartedMain] WARN  org.hibernate.orm.deprecation - HHH90000025: H2Dialect does not need to be specified explicitly using 'hibernate.dialect' (remove the property setting and it will be selected by default)
+2025-11-27 12:38:52 [restartedMain] INFO  o.hibernate.orm.connections.pooling - HHH10001005: Database info:
 	Database JDBC URL [Connecting through datasource 'HikariDataSource (HikariPool-1)']
 	Database driver: undefined/unknown
 	Database version: 2.3.232
@@ -25,10 +25,10 @@
 	Isolation level: undefined/unknown
 	Minimum pool size: undefined/unknown
 	Maximum pool size: undefined/unknown
-2025-11-26 18:52:36 [restartedMain] INFO  o.h.e.t.j.p.i.JtaPlatformInitiator - HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
-2025-11-26 18:52:36 [restartedMain] DEBUG org.hibernate.SQL - 
+2025-11-27 12:38:53 [restartedMain] INFO  o.h.e.t.j.p.i.JtaPlatformInitiator - HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2025-11-27 12:38:53 [restartedMain] DEBUG org.hibernate.SQL - 
     drop table if exists produtos cascade 
-2025-11-26 18:52:36 [restartedMain] DEBUG org.hibernate.SQL - 
+2025-11-27 12:38:53 [restartedMain] DEBUG org.hibernate.SQL - 
     create table produtos (
         custo_fixo_mensal numeric(38,2) not null,
         custo_fixo_por_unidade numeric(38,2),
@@ -48,43 +48,40 @@
         nome varchar(255) not null,
         primary key (id)
     )
-2025-11-26 18:52:36 [restartedMain] INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean - Initialized JPA EntityManagerFactory for persistence unit 'default'
-2025-11-26 18:52:36 [restartedMain] WARN  o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
-2025-11-26 18:52:37 [restartedMain] INFO  o.s.b.a.h.H2ConsoleAutoConfiguration - H2 console available at '/h2-console'. Database available at 'jdbc:h2:mem:testdb'
-2025-11-26 18:52:37 [restartedMain] INFO  o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729
-2025-11-26 18:52:37 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port 8080 (http) with context path '/'
-2025-11-26 18:52:37 [restartedMain] INFO  c.e.p.PrecificacaoApplication - Started PrecificacaoApplication in 5.29 seconds (process running for 6.017)
-2025-11-26 18:53:14 [http-nio-8080-exec-1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
-2025-11-26 18:53:14 [http-nio-8080-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
-2025-11-26 18:53:14 [http-nio-8080-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Completed initialization in 1 ms
-2025-11-26 18:54:45 [SpringApplicationShutdownHook] INFO  o.s.b.w.e.tomcat.GracefulShutdown - Commencing graceful shutdown. Waiting for active requests to complete
-2025-11-26 18:54:45 [tomcat-shutdown] INFO  o.s.b.w.e.tomcat.GracefulShutdown - Graceful shutdown complete
-2025-11-26 18:54:45 [SpringApplicationShutdownHook] INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean - Closing JPA EntityManagerFactory for persistence unit 'default'
-2025-11-26 18:54:45 [SpringApplicationShutdownHook] DEBUG org.hibernate.SQL - 
+2025-11-27 12:38:53 [restartedMain] INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2025-11-27 12:38:53 [restartedMain] WARN  o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2025-11-27 12:38:54 [restartedMain] INFO  o.s.b.a.h.H2ConsoleAutoConfiguration - H2 console available at '/h2-console'. Database available at 'jdbc:h2:mem:testdb'
+2025-11-27 12:38:54 [restartedMain] INFO  o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729
+2025-11-27 12:38:54 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port 8080 (http) with context path '/'
+2025-11-27 12:38:54 [restartedMain] INFO  c.e.p.PrecificacaoApplication - Started PrecificacaoApplication in 5.464 seconds (process running for 6.303)
+2025-11-27 12:38:58 [SpringApplicationShutdownHook] INFO  o.s.b.w.e.tomcat.GracefulShutdown - Commencing graceful shutdown. Waiting for active requests to complete
+2025-11-27 12:38:58 [tomcat-shutdown] INFO  o.s.b.w.e.tomcat.GracefulShutdown - Graceful shutdown complete
+2025-11-27 12:38:58 [SpringApplicationShutdownHook] INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean - Closing JPA EntityManagerFactory for persistence unit 'default'
+2025-11-27 12:38:58 [SpringApplicationShutdownHook] DEBUG org.hibernate.SQL - 
     drop table if exists produtos cascade 
-2025-11-26 18:54:45 [SpringApplicationShutdownHook] WARN  o.s.b.f.s.DisposableBeanAdapter - Invocation of destroy method failed on bean with name 'inMemoryDatabaseShutdownExecutor': org.h2.jdbc.JdbcSQLNonTransientConnectionException: Database is already closed (to disable automatic closing at VM shutdown, add ";DB_CLOSE_ON_EXIT=FALSE" to the db URL) [90121-232]
-2025-11-26 18:54:45 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
-2025-11-26 18:54:45 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
-2025-11-26 19:46:53 [restartedMain] INFO  c.e.p.PrecificacaoApplication - Starting PrecificacaoApplication using Java 25 with PID 3156 (C:\Users\werne\IdeaProjects\erp-precificacao\backend\target\classes started by werne in C:\Users\werne\IdeaProjects\erp-precificacao)
-2025-11-26 19:46:53 [restartedMain] INFO  c.e.p.PrecificacaoApplication - No active profile set, falling back to 1 default profile: "default"
-2025-11-26 19:46:53 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
-2025-11-26 19:46:53 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
-2025-11-26 19:46:55 [restartedMain] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
-2025-11-26 19:46:55 [restartedMain] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 131 ms. Found 1 JPA repository interface.
-2025-11-26 19:46:57 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port 8080 (http)
-2025-11-26 19:46:57 [restartedMain] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
-2025-11-26 19:46:57 [restartedMain] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.49]
-2025-11-26 19:46:57 [restartedMain] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
-2025-11-26 19:46:57 [restartedMain] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 3676 ms
-2025-11-26 19:46:57 [restartedMain] INFO  o.h.jpa.internal.util.LogHelper - HHH000204: Processing PersistenceUnitInfo [name: default]
-2025-11-26 19:46:57 [restartedMain] INFO  org.hibernate.Version - HHH000412: Hibernate ORM core version 6.6.36.Final
-2025-11-26 19:46:57 [restartedMain] INFO  o.h.c.i.RegionFactoryInitiator - HHH000026: Second-level cache disabled
-2025-11-26 19:46:58 [restartedMain] INFO  o.s.o.j.p.SpringPersistenceUnitInfo - No LoadTimeWeaver setup: ignoring JPA class transformer
-2025-11-26 19:46:58 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
-2025-11-26 19:46:59 [restartedMain] INFO  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Added connection conn0: url=jdbc:h2:mem:testdb user=SA
-2025-11-26 19:46:59 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
-2025-11-26 19:46:59 [restartedMain] WARN  org.hibernate.orm.deprecation - HHH90000025: H2Dialect does not need to be specified explicitly using 'hibernate.dialect' (remove the property setting and it will be selected by default)
-2025-11-26 19:46:59 [restartedMain] INFO  o.hibernate.orm.connections.pooling - HHH10001005: Database info:
+2025-11-27 12:38:58 [SpringApplicationShutdownHook] WARN  o.s.b.f.s.DisposableBeanAdapter - Invocation of destroy method failed on bean with name 'inMemoryDatabaseShutdownExecutor': org.h2.jdbc.JdbcSQLNonTransientConnectionException: Database is already closed (to disable automatic closing at VM shutdown, add ";DB_CLOSE_ON_EXIT=FALSE" to the db URL) [90121-232]
+2025-11-27 12:38:58 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+2025-11-27 12:38:58 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+2025-11-27 12:40:35 [restartedMain] INFO  c.e.p.PrecificacaoApplication - Starting PrecificacaoApplication using Java 25 with PID 17388 (C:\Users\werne\IdeaProjects\erp-precificacao\backend\target\classes started by werne in C:\Users\werne\IdeaProjects\erp-precificacao)
+2025-11-27 12:40:35 [restartedMain] INFO  c.e.p.PrecificacaoApplication - No active profile set, falling back to 1 default profile: "default"
+2025-11-27 12:40:35 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2025-11-27 12:40:35 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2025-11-27 12:40:36 [restartedMain] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2025-11-27 12:40:36 [restartedMain] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 56 ms. Found 1 JPA repository interface.
+2025-11-27 12:40:36 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port 8080 (http)
+2025-11-27 12:40:36 [restartedMain] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2025-11-27 12:40:36 [restartedMain] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.49]
+2025-11-27 12:40:36 [restartedMain] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2025-11-27 12:40:36 [restartedMain] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1600 ms
+2025-11-27 12:40:37 [restartedMain] INFO  o.h.jpa.internal.util.LogHelper - HHH000204: Processing PersistenceUnitInfo [name: default]
+2025-11-27 12:40:37 [restartedMain] INFO  org.hibernate.Version - HHH000412: Hibernate ORM core version 6.6.36.Final
+2025-11-27 12:40:37 [restartedMain] INFO  o.h.c.i.RegionFactoryInitiator - HHH000026: Second-level cache disabled
+2025-11-27 12:40:37 [restartedMain] INFO  o.s.o.j.p.SpringPersistenceUnitInfo - No LoadTimeWeaver setup: ignoring JPA class transformer
+2025-11-27 12:40:37 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2025-11-27 12:40:37 [restartedMain] INFO  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Added connection conn0: url=jdbc:h2:mem:testdb user=SA
+2025-11-27 12:40:37 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2025-11-27 12:40:37 [restartedMain] WARN  org.hibernate.orm.deprecation - HHH90000025: H2Dialect does not need to be specified explicitly using 'hibernate.dialect' (remove the property setting and it will be selected by default)
+2025-11-27 12:40:37 [restartedMain] INFO  o.hibernate.orm.connections.pooling - HHH10001005: Database info:
 	Database JDBC URL [Connecting through datasource 'HikariDataSource (HikariPool-1)']
 	Database driver: undefined/unknown
 	Database version: 2.3.232
@@ -92,10 +89,10 @@
 	Isolation level: undefined/unknown
 	Minimum pool size: undefined/unknown
 	Maximum pool size: undefined/unknown
-2025-11-26 19:47:01 [restartedMain] INFO  o.h.e.t.j.p.i.JtaPlatformInitiator - HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
-2025-11-26 19:47:01 [restartedMain] DEBUG org.hibernate.SQL - 
+2025-11-27 12:40:38 [restartedMain] INFO  o.h.e.t.j.p.i.JtaPlatformInitiator - HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2025-11-27 12:40:38 [restartedMain] DEBUG org.hibernate.SQL - 
     drop table if exists produtos cascade 
-2025-11-26 19:47:01 [restartedMain] DEBUG org.hibernate.SQL - 
+2025-11-27 12:40:38 [restartedMain] DEBUG org.hibernate.SQL - 
     create table produtos (
         custo_fixo_mensal numeric(38,2) not null,
         custo_fixo_por_unidade numeric(38,2),
@@ -115,17 +112,1839 @@
         nome varchar(255) not null,
         primary key (id)
     )
-2025-11-26 19:47:01 [restartedMain] INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean - Initialized JPA EntityManagerFactory for persistence unit 'default'
-2025-11-26 19:47:02 [restartedMain] WARN  o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
-2025-11-26 19:47:02 [restartedMain] INFO  o.s.b.a.h.H2ConsoleAutoConfiguration - H2 console available at '/h2-console'. Database available at 'jdbc:h2:mem:testdb'
-2025-11-26 19:47:02 [restartedMain] INFO  o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729
-2025-11-26 19:47:03 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port 8080 (http) with context path '/'
-2025-11-26 19:47:03 [restartedMain] INFO  c.e.p.PrecificacaoApplication - Started PrecificacaoApplication in 10.938 seconds (process running for 12.214)
-2025-11-26 19:47:06 [SpringApplicationShutdownHook] INFO  o.s.b.w.e.tomcat.GracefulShutdown - Commencing graceful shutdown. Waiting for active requests to complete
-2025-11-26 19:47:06 [tomcat-shutdown] INFO  o.s.b.w.e.tomcat.GracefulShutdown - Graceful shutdown complete
-2025-11-26 19:47:06 [SpringApplicationShutdownHook] INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean - Closing JPA EntityManagerFactory for persistence unit 'default'
-2025-11-26 19:47:06 [SpringApplicationShutdownHook] DEBUG org.hibernate.SQL - 
+2025-11-27 12:40:38 [restartedMain] INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2025-11-27 12:40:38 [restartedMain] WARN  o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2025-11-27 12:40:39 [restartedMain] INFO  o.s.b.a.h.H2ConsoleAutoConfiguration - H2 console available at '/h2-console'. Database available at 'jdbc:h2:mem:testdb'
+2025-11-27 12:40:39 [restartedMain] INFO  o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729
+2025-11-27 12:40:39 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port 8080 (http) with context path '/'
+2025-11-27 12:40:39 [restartedMain] INFO  c.e.p.PrecificacaoApplication - Started PrecificacaoApplication in 4.689 seconds (process running for 5.275)
+2025-11-27 12:42:35 [http-nio-8080-exec-1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-11-27 12:42:35 [http-nio-8080-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2025-11-27 12:42:35 [http-nio-8080-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Completed initialization in 1 ms
+2025-11-27 12:45:08 [SpringApplicationShutdownHook] INFO  o.s.b.w.e.tomcat.GracefulShutdown - Commencing graceful shutdown. Waiting for active requests to complete
+2025-11-27 12:45:08 [tomcat-shutdown] INFO  o.s.b.w.e.tomcat.GracefulShutdown - Graceful shutdown complete
+2025-11-27 12:45:08 [SpringApplicationShutdownHook] INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean - Closing JPA EntityManagerFactory for persistence unit 'default'
+2025-11-27 12:45:08 [SpringApplicationShutdownHook] DEBUG org.hibernate.SQL - 
     drop table if exists produtos cascade 
-2025-11-26 19:47:06 [SpringApplicationShutdownHook] WARN  o.s.b.f.s.DisposableBeanAdapter - Invocation of destroy method failed on bean with name 'inMemoryDatabaseShutdownExecutor': org.h2.jdbc.JdbcSQLNonTransientConnectionException: Database is already closed (to disable automatic closing at VM shutdown, add ";DB_CLOSE_ON_EXIT=FALSE" to the db URL) [90121-232]
-2025-11-26 19:47:06 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
-2025-11-26 19:47:06 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+2025-11-27 12:45:08 [SpringApplicationShutdownHook] WARN  o.s.b.f.s.DisposableBeanAdapter - Invocation of destroy method failed on bean with name 'inMemoryDatabaseShutdownExecutor': org.h2.jdbc.JdbcSQLNonTransientConnectionException: Database is already closed (to disable automatic closing at VM shutdown, add ";DB_CLOSE_ON_EXIT=FALSE" to the db URL) [90121-232]
+2025-11-27 12:45:08 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+2025-11-27 12:45:08 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+2025-11-27 12:46:46 [restartedMain] INFO  c.e.p.PrecificacaoApplication - Starting PrecificacaoApplication using Java 25 with PID 14596 (C:\Users\werne\IdeaProjects\erp-precificacao\backend\target\classes started by werne in C:\Users\werne\IdeaProjects\erp-precificacao)
+2025-11-27 12:46:46 [restartedMain] INFO  c.e.p.PrecificacaoApplication - No active profile set, falling back to 1 default profile: "default"
+2025-11-27 12:46:46 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2025-11-27 12:46:46 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2025-11-27 12:46:47 [restartedMain] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2025-11-27 12:46:47 [restartedMain] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 60 ms. Found 1 JPA repository interface.
+2025-11-27 12:46:48 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port 8080 (http)
+2025-11-27 12:46:48 [restartedMain] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2025-11-27 12:46:48 [restartedMain] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.49]
+2025-11-27 12:46:48 [restartedMain] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2025-11-27 12:46:48 [restartedMain] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1667 ms
+2025-11-27 12:46:48 [restartedMain] INFO  o.h.jpa.internal.util.LogHelper - HHH000204: Processing PersistenceUnitInfo [name: default]
+2025-11-27 12:46:48 [restartedMain] INFO  org.hibernate.Version - HHH000412: Hibernate ORM core version 6.6.36.Final
+2025-11-27 12:46:48 [restartedMain] INFO  o.h.c.i.RegionFactoryInitiator - HHH000026: Second-level cache disabled
+2025-11-27 12:46:48 [restartedMain] INFO  o.s.o.j.p.SpringPersistenceUnitInfo - No LoadTimeWeaver setup: ignoring JPA class transformer
+2025-11-27 12:46:48 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2025-11-27 12:46:49 [restartedMain] INFO  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Added connection conn0: url=jdbc:h2:mem:testdb user=SA
+2025-11-27 12:46:49 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2025-11-27 12:46:49 [restartedMain] WARN  org.hibernate.orm.deprecation - HHH90000025: H2Dialect does not need to be specified explicitly using 'hibernate.dialect' (remove the property setting and it will be selected by default)
+2025-11-27 12:46:49 [restartedMain] INFO  o.hibernate.orm.connections.pooling - HHH10001005: Database info:
+	Database JDBC URL [Connecting through datasource 'HikariDataSource (HikariPool-1)']
+	Database driver: undefined/unknown
+	Database version: 2.3.232
+	Autocommit mode: undefined/unknown
+	Isolation level: undefined/unknown
+	Minimum pool size: undefined/unknown
+	Maximum pool size: undefined/unknown
+2025-11-27 12:46:49 [restartedMain] INFO  o.h.e.t.j.p.i.JtaPlatformInitiator - HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2025-11-27 12:46:49 [restartedMain] DEBUG org.hibernate.SQL - 
+    drop table if exists produtos cascade 
+2025-11-27 12:46:49 [restartedMain] DEBUG org.hibernate.SQL - 
+    create table produtos (
+        custo_fixo_mensal numeric(38,2) not null,
+        custo_fixo_por_unidade numeric(38,2),
+        custo_total_base numeric(38,2),
+        impostos_custos_variaveis numeric(38,2) not null,
+        lucro_bruto_por_unidade numeric(38,2),
+        lucro_mensal numeric(38,2),
+        margem_bruta numeric(38,2),
+        margem_desejada numeric(38,2) not null,
+        ponto_equilibrio numeric(38,2),
+        preco_custo numeric(38,2) not null,
+        preco_ideal numeric(38,2),
+        quantidade_estimada integer not null,
+        receita numeric(38,2),
+        id bigint generated by default as identity,
+        categoria varchar(255) not null,
+        nome varchar(255) not null,
+        primary key (id)
+    )
+2025-11-27 12:46:49 [restartedMain] INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2025-11-27 12:46:50 [restartedMain] WARN  o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2025-11-27 12:46:50 [restartedMain] INFO  o.s.b.a.h.H2ConsoleAutoConfiguration - H2 console available at '/h2-console'. Database available at 'jdbc:h2:mem:testdb'
+2025-11-27 12:46:50 [restartedMain] INFO  o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729
+2025-11-27 12:46:50 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port 8080 (http) with context path '/'
+2025-11-27 12:46:50 [restartedMain] INFO  c.e.p.PrecificacaoApplication - Started PrecificacaoApplication in 4.691 seconds (process running for 5.249)
+2025-11-27 12:52:02 [http-nio-8080-exec-1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-11-27 12:52:02 [http-nio-8080-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2025-11-27 12:52:02 [http-nio-8080-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Completed initialization in 1 ms
+2025-11-27 12:52:02 [http-nio-8080-exec-1] INFO  c.e.p.controller.ProdutoController - Iniciando listagem de todos os produtos
+2025-11-27 12:52:02 [http-nio-8080-exec-1] DEBUG org.hibernate.SQL - 
+    select
+        p1_0.id,
+        p1_0.categoria,
+        p1_0.custo_fixo_mensal,
+        p1_0.custo_fixo_por_unidade,
+        p1_0.custo_total_base,
+        p1_0.impostos_custos_variaveis,
+        p1_0.lucro_bruto_por_unidade,
+        p1_0.lucro_mensal,
+        p1_0.margem_bruta,
+        p1_0.margem_desejada,
+        p1_0.nome,
+        p1_0.ponto_equilibrio,
+        p1_0.preco_custo,
+        p1_0.preco_ideal,
+        p1_0.quantidade_estimada,
+        p1_0.receita 
+    from
+        produtos p1_0
+2025-11-27 12:52:02 [http-nio-8080-exec-1] INFO  c.e.p.controller.ProdutoController - Total de produtos encontrados: 0
+2025-11-27 12:56:34 [SpringApplicationShutdownHook] INFO  o.s.b.w.e.tomcat.GracefulShutdown - Commencing graceful shutdown. Waiting for active requests to complete
+2025-11-27 12:56:34 [tomcat-shutdown] INFO  o.s.b.w.e.tomcat.GracefulShutdown - Graceful shutdown complete
+2025-11-27 12:56:34 [SpringApplicationShutdownHook] INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean - Closing JPA EntityManagerFactory for persistence unit 'default'
+2025-11-27 12:56:34 [SpringApplicationShutdownHook] DEBUG org.hibernate.SQL - 
+    drop table if exists produtos cascade 
+2025-11-27 12:56:34 [SpringApplicationShutdownHook] WARN  o.s.b.f.s.DisposableBeanAdapter - Invocation of destroy method failed on bean with name 'inMemoryDatabaseShutdownExecutor': org.h2.jdbc.JdbcSQLNonTransientConnectionException: Database is already closed (to disable automatic closing at VM shutdown, add ";DB_CLOSE_ON_EXIT=FALSE" to the db URL) [90121-232]
+2025-11-27 12:56:34 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+2025-11-27 12:56:34 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+2025-11-27 15:23:05 [restartedMain] INFO  c.e.p.PrecificacaoApplication - Starting PrecificacaoApplication using Java 25 with PID 4496 (C:\Users\werne\IdeaProjects\erp-precificacao\backend\target\classes started by werne in C:\Users\werne\IdeaProjects\erp-precificacao)
+2025-11-27 15:23:05 [restartedMain] INFO  c.e.p.PrecificacaoApplication - No active profile set, falling back to 1 default profile: "default"
+2025-11-27 15:23:05 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2025-11-27 15:23:05 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2025-11-27 15:23:06 [restartedMain] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2025-11-27 15:23:06 [restartedMain] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 55 ms. Found 1 JPA repository interface.
+2025-11-27 15:23:07 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port 8080 (http)
+2025-11-27 15:23:07 [restartedMain] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2025-11-27 15:23:07 [restartedMain] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.49]
+2025-11-27 15:23:07 [restartedMain] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2025-11-27 15:23:07 [restartedMain] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1671 ms
+2025-11-27 15:23:07 [restartedMain] INFO  o.h.jpa.internal.util.LogHelper - HHH000204: Processing PersistenceUnitInfo [name: default]
+2025-11-27 15:23:07 [restartedMain] INFO  org.hibernate.Version - HHH000412: Hibernate ORM core version 6.6.36.Final
+2025-11-27 15:23:07 [restartedMain] INFO  o.h.c.i.RegionFactoryInitiator - HHH000026: Second-level cache disabled
+2025-11-27 15:23:07 [restartedMain] INFO  o.s.o.j.p.SpringPersistenceUnitInfo - No LoadTimeWeaver setup: ignoring JPA class transformer
+2025-11-27 15:23:07 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2025-11-27 15:23:07 [restartedMain] INFO  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Added connection conn0: url=jdbc:h2:mem:testdb user=SA
+2025-11-27 15:23:07 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2025-11-27 15:23:07 [restartedMain] WARN  org.hibernate.orm.deprecation - HHH90000025: H2Dialect does not need to be specified explicitly using 'hibernate.dialect' (remove the property setting and it will be selected by default)
+2025-11-27 15:23:07 [restartedMain] INFO  o.hibernate.orm.connections.pooling - HHH10001005: Database info:
+	Database JDBC URL [Connecting through datasource 'HikariDataSource (HikariPool-1)']
+	Database driver: undefined/unknown
+	Database version: 2.3.232
+	Autocommit mode: undefined/unknown
+	Isolation level: undefined/unknown
+	Minimum pool size: undefined/unknown
+	Maximum pool size: undefined/unknown
+2025-11-27 15:23:08 [restartedMain] INFO  o.h.e.t.j.p.i.JtaPlatformInitiator - HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2025-11-27 15:23:08 [restartedMain] DEBUG org.hibernate.SQL - 
+    drop table if exists produtos cascade 
+2025-11-27 15:23:08 [restartedMain] DEBUG org.hibernate.SQL - 
+    create table produtos (
+        custo_fixo_mensal numeric(38,2) not null,
+        custo_fixo_por_unidade numeric(38,2),
+        custo_total_base numeric(38,2),
+        impostos_custos_variaveis numeric(38,2) not null,
+        lucro_bruto_por_unidade numeric(38,2),
+        lucro_mensal numeric(38,2),
+        margem_bruta numeric(38,2),
+        margem_desejada numeric(38,2) not null,
+        ponto_equilibrio numeric(38,2),
+        preco_custo numeric(38,2) not null,
+        preco_ideal numeric(38,2),
+        quantidade_estimada integer not null,
+        receita numeric(38,2),
+        id bigint generated by default as identity,
+        categoria varchar(255) not null,
+        nome varchar(255) not null,
+        primary key (id)
+    )
+2025-11-27 15:23:08 [restartedMain] INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2025-11-27 15:23:09 [restartedMain] WARN  o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2025-11-27 15:23:09 [restartedMain] INFO  o.s.b.a.h.H2ConsoleAutoConfiguration - H2 console available at '/h2-console'. Database available at 'jdbc:h2:mem:testdb'
+2025-11-27 15:23:09 [restartedMain] INFO  o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729
+2025-11-27 15:23:09 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port 8080 (http) with context path '/'
+2025-11-27 15:23:09 [restartedMain] INFO  c.e.p.PrecificacaoApplication - Started PrecificacaoApplication in 4.773 seconds (process running for 5.466)
+2025-11-27 15:28:17 [SpringApplicationShutdownHook] INFO  o.s.b.w.e.tomcat.GracefulShutdown - Commencing graceful shutdown. Waiting for active requests to complete
+2025-11-27 15:28:17 [tomcat-shutdown] INFO  o.s.b.w.e.tomcat.GracefulShutdown - Graceful shutdown complete
+2025-11-27 15:28:17 [SpringApplicationShutdownHook] INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean - Closing JPA EntityManagerFactory for persistence unit 'default'
+2025-11-27 15:28:17 [SpringApplicationShutdownHook] DEBUG org.hibernate.SQL - 
+    drop table if exists produtos cascade 
+2025-11-27 15:28:17 [SpringApplicationShutdownHook] WARN  o.s.b.f.s.DisposableBeanAdapter - Invocation of destroy method failed on bean with name 'inMemoryDatabaseShutdownExecutor': org.h2.jdbc.JdbcSQLNonTransientConnectionException: Database is already closed (to disable automatic closing at VM shutdown, add ";DB_CLOSE_ON_EXIT=FALSE" to the db URL) [90121-232]
+2025-11-27 15:28:17 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+2025-11-27 15:28:17 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+2025-11-27 15:40:56 [restartedMain] INFO  c.e.p.PrecificacaoApplication - Starting PrecificacaoApplication using Java 25 with PID 2800 (C:\Users\werne\IdeaProjects\erp-precificacao\backend\target\classes started by werne in C:\Users\werne\IdeaProjects\erp-precificacao)
+2025-11-27 15:40:56 [restartedMain] INFO  c.e.p.PrecificacaoApplication - No active profile set, falling back to 1 default profile: "default"
+2025-11-27 15:40:56 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2025-11-27 15:40:56 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2025-11-27 15:40:57 [restartedMain] WARN  o.s.b.w.s.c.AnnotationConfigServletWebServerApplicationContext - Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.support.BeanDefinitionOverrideException: Invalid bean definition with name 'corsConfigurer' defined in com.erp.precificacao.PrecificacaoApplication: Cannot register bean definition [Root bean: class=null; scope=; abstract=false; lazyInit=null; autowireMode=3; dependencyCheck=0; autowireCandidate=true; primary=false; fallback=false; factoryBeanName=precificacaoApplication; factoryMethodName=corsConfigurer; initMethodNames=null; destroyMethodNames=[(inferred)]; defined in com.erp.precificacao.PrecificacaoApplication] for bean 'corsConfigurer' since there is already [Root bean: class=null; scope=; abstract=false; lazyInit=null; autowireMode=3; dependencyCheck=0; autowireCandidate=true; primary=false; fallback=false; factoryBeanName=corsConfig; factoryMethodName=corsConfigurer; initMethodNames=null; destroyMethodNames=[(inferred)]; defined in class path resource [com/erp/precificacao/config/CorsConfig.class]] bound.
+2025-11-27 15:40:57 [restartedMain] INFO  o.s.b.a.l.ConditionEvaluationReportLogger - 
+
+Error starting ApplicationContext. To display the condition evaluation report re-run your application with 'debug' enabled.
+2025-11-27 15:40:57 [restartedMain] ERROR o.s.b.d.LoggingFailureAnalysisReporter - 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+The bean 'corsConfigurer', defined in com.erp.precificacao.PrecificacaoApplication, could not be registered. A bean with that name has already been defined in class path resource [com/erp/precificacao/config/CorsConfig.class] and overriding is disabled.
+
+Action:
+
+Consider renaming one of the beans or enabling overriding by setting spring.main.allow-bean-definition-overriding=true
+
+2025-11-27 15:42:02 [restartedMain] INFO  c.e.p.PrecificacaoApplication - Starting PrecificacaoApplication using Java 25 with PID 1076 (C:\Users\werne\IdeaProjects\erp-precificacao\backend\target\classes started by werne in C:\Users\werne\IdeaProjects\erp-precificacao)
+2025-11-27 15:42:02 [restartedMain] INFO  c.e.p.PrecificacaoApplication - No active profile set, falling back to 1 default profile: "default"
+2025-11-27 15:42:02 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2025-11-27 15:42:02 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2025-11-27 15:42:03 [restartedMain] WARN  o.s.b.w.s.c.AnnotationConfigServletWebServerApplicationContext - Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.support.BeanDefinitionOverrideException: Invalid bean definition with name 'corsConfigurer' defined in com.erp.precificacao.PrecificacaoApplication: Cannot register bean definition [Root bean: class=null; scope=; abstract=false; lazyInit=null; autowireMode=3; dependencyCheck=0; autowireCandidate=true; primary=false; fallback=false; factoryBeanName=precificacaoApplication; factoryMethodName=corsConfigurer; initMethodNames=null; destroyMethodNames=[(inferred)]; defined in com.erp.precificacao.PrecificacaoApplication] for bean 'corsConfigurer' since there is already [Root bean: class=null; scope=; abstract=false; lazyInit=null; autowireMode=3; dependencyCheck=0; autowireCandidate=true; primary=false; fallback=false; factoryBeanName=corsConfig; factoryMethodName=corsConfigurer; initMethodNames=null; destroyMethodNames=[(inferred)]; defined in class path resource [com/erp/precificacao/config/CorsConfig.class]] bound.
+2025-11-27 15:42:03 [restartedMain] INFO  o.s.b.a.l.ConditionEvaluationReportLogger - 
+
+Error starting ApplicationContext. To display the condition evaluation report re-run your application with 'debug' enabled.
+2025-11-27 15:42:03 [restartedMain] ERROR o.s.b.d.LoggingFailureAnalysisReporter - 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+The bean 'corsConfigurer', defined in com.erp.precificacao.PrecificacaoApplication, could not be registered. A bean with that name has already been defined in class path resource [com/erp/precificacao/config/CorsConfig.class] and overriding is disabled.
+
+Action:
+
+Consider renaming one of the beans or enabling overriding by setting spring.main.allow-bean-definition-overriding=true
+
+2025-11-27 15:43:46 [restartedMain] INFO  c.e.p.PrecificacaoApplication - Starting PrecificacaoApplication using Java 25 with PID 10020 (C:\Users\werne\IdeaProjects\erp-precificacao\backend\target\classes started by werne in C:\Users\werne\IdeaProjects\erp-precificacao)
+2025-11-27 15:43:46 [restartedMain] INFO  c.e.p.PrecificacaoApplication - No active profile set, falling back to 1 default profile: "default"
+2025-11-27 15:43:46 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2025-11-27 15:43:46 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2025-11-27 15:43:47 [restartedMain] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2025-11-27 15:43:47 [restartedMain] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 59 ms. Found 1 JPA repository interface.
+2025-11-27 15:43:48 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port 8080 (http)
+2025-11-27 15:43:48 [restartedMain] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2025-11-27 15:43:48 [restartedMain] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.49]
+2025-11-27 15:43:48 [restartedMain] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2025-11-27 15:43:48 [restartedMain] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1613 ms
+2025-11-27 15:43:48 [restartedMain] INFO  o.h.jpa.internal.util.LogHelper - HHH000204: Processing PersistenceUnitInfo [name: default]
+2025-11-27 15:43:48 [restartedMain] INFO  org.hibernate.Version - HHH000412: Hibernate ORM core version 6.6.36.Final
+2025-11-27 15:43:48 [restartedMain] INFO  o.h.c.i.RegionFactoryInitiator - HHH000026: Second-level cache disabled
+2025-11-27 15:43:49 [restartedMain] INFO  o.s.o.j.p.SpringPersistenceUnitInfo - No LoadTimeWeaver setup: ignoring JPA class transformer
+2025-11-27 15:43:49 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2025-11-27 15:43:49 [restartedMain] INFO  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Added connection conn0: url=jdbc:h2:mem:testdb user=SA
+2025-11-27 15:43:49 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2025-11-27 15:43:49 [restartedMain] WARN  org.hibernate.orm.deprecation - HHH90000025: H2Dialect does not need to be specified explicitly using 'hibernate.dialect' (remove the property setting and it will be selected by default)
+2025-11-27 15:43:49 [restartedMain] INFO  o.hibernate.orm.connections.pooling - HHH10001005: Database info:
+	Database JDBC URL [Connecting through datasource 'HikariDataSource (HikariPool-1)']
+	Database driver: undefined/unknown
+	Database version: 2.3.232
+	Autocommit mode: undefined/unknown
+	Isolation level: undefined/unknown
+	Minimum pool size: undefined/unknown
+	Maximum pool size: undefined/unknown
+2025-11-27 15:43:50 [restartedMain] INFO  o.h.e.t.j.p.i.JtaPlatformInitiator - HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2025-11-27 15:43:50 [restartedMain] DEBUG org.hibernate.SQL - 
+    drop table if exists produtos cascade 
+2025-11-27 15:43:50 [restartedMain] DEBUG org.hibernate.SQL - 
+    create table produtos (
+        custo_fixo_mensal numeric(38,2) not null,
+        custo_fixo_por_unidade numeric(38,2),
+        custo_total_base numeric(38,2),
+        impostos_custos_variaveis numeric(38,2) not null,
+        lucro_bruto_por_unidade numeric(38,2),
+        lucro_mensal numeric(38,2),
+        margem_bruta numeric(38,2),
+        margem_desejada numeric(38,2) not null,
+        ponto_equilibrio numeric(38,2),
+        preco_custo numeric(38,2) not null,
+        preco_ideal numeric(38,2),
+        quantidade_estimada integer not null,
+        receita numeric(38,2),
+        id bigint generated by default as identity,
+        categoria varchar(255) not null,
+        nome varchar(255) not null,
+        primary key (id)
+    )
+2025-11-27 15:43:50 [restartedMain] INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2025-11-27 15:43:50 [restartedMain] WARN  o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2025-11-27 15:43:50 [restartedMain] INFO  o.s.b.a.h.H2ConsoleAutoConfiguration - H2 console available at '/h2-console'. Database available at 'jdbc:h2:mem:testdb'
+2025-11-27 15:43:51 [restartedMain] INFO  o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729
+2025-11-27 15:43:51 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port 8080 (http) with context path '/'
+2025-11-27 15:43:51 [restartedMain] INFO  c.e.p.PrecificacaoApplication - Started PrecificacaoApplication in 4.921 seconds (process running for 5.51)
+2025-11-27 15:44:37 [http-nio-8080-exec-1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-11-27 15:44:37 [http-nio-8080-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2025-11-27 15:44:37 [http-nio-8080-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Completed initialization in 1 ms
+2025-11-27 15:44:37 [http-nio-8080-exec-1] ERROR o.a.c.c.C.[.[.[.[dispatcherServlet] - Servlet.service() for servlet [dispatcherServlet] in context with path [] threw exception [Request processing failed: java.lang.IllegalArgumentException: When allowCredentials is true, allowedOrigins cannot contain the special value "*" since that cannot be set on the "Access-Control-Allow-Origin" response header. To allow credentials to a set of origins, list them explicitly or consider using "allowedOriginPatterns" instead.] with root cause
+java.lang.IllegalArgumentException: When allowCredentials is true, allowedOrigins cannot contain the special value "*" since that cannot be set on the "Access-Control-Allow-Origin" response header. To allow credentials to a set of origins, list them explicitly or consider using "allowedOriginPatterns" instead.
+	at org.springframework.web.cors.CorsConfiguration.validateAllowCredentials(CorsConfiguration.java:568)
+	at org.springframework.web.servlet.handler.AbstractHandlerMapping.getHandler(AbstractHandlerMapping.java:544)
+	at org.springframework.web.servlet.DispatcherServlet.getHandler(DispatcherServlet.java:1284)
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1065)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:979)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1014)
+	at org.springframework.web.servlet.FrameworkServlet.doGet(FrameworkServlet.java:903)
+	at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:564)
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:885)
+	at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:658)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:138)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:51)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:162)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:138)
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:162)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:138)
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:162)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:138)
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:162)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:138)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:165)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:88)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:482)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:113)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:83)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:72)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:342)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:399)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:63)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:903)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1774)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:52)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:973)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:491)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:63)
+	at java.base/java.lang.Thread.run(Thread.java:1474)
+2025-11-27 15:53:58 [SpringApplicationShutdownHook] INFO  o.s.b.w.e.tomcat.GracefulShutdown - Commencing graceful shutdown. Waiting for active requests to complete
+2025-11-27 15:53:58 [tomcat-shutdown] INFO  o.s.b.w.e.tomcat.GracefulShutdown - Graceful shutdown complete
+2025-11-27 15:53:58 [SpringApplicationShutdownHook] INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean - Closing JPA EntityManagerFactory for persistence unit 'default'
+2025-11-27 15:53:58 [SpringApplicationShutdownHook] DEBUG org.hibernate.SQL - 
+    drop table if exists produtos cascade 
+2025-11-27 15:53:58 [SpringApplicationShutdownHook] WARN  o.s.b.f.s.DisposableBeanAdapter - Invocation of destroy method failed on bean with name 'inMemoryDatabaseShutdownExecutor': org.h2.jdbc.JdbcSQLNonTransientConnectionException: Database is already closed (to disable automatic closing at VM shutdown, add ";DB_CLOSE_ON_EXIT=FALSE" to the db URL) [90121-232]
+2025-11-27 15:53:58 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+2025-11-27 15:53:58 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+2025-11-27 15:54:11 [restartedMain] INFO  c.e.p.PrecificacaoApplication - Starting PrecificacaoApplication using Java 25 with PID 9920 (C:\Users\werne\IdeaProjects\erp-precificacao\backend\target\classes started by werne in C:\Users\werne\IdeaProjects\erp-precificacao)
+2025-11-27 15:54:11 [restartedMain] INFO  c.e.p.PrecificacaoApplication - No active profile set, falling back to 1 default profile: "default"
+2025-11-27 15:54:11 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2025-11-27 15:54:11 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2025-11-27 15:54:11 [restartedMain] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2025-11-27 15:54:11 [restartedMain] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 67 ms. Found 1 JPA repository interface.
+2025-11-27 15:54:12 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port 8080 (http)
+2025-11-27 15:54:12 [restartedMain] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2025-11-27 15:54:12 [restartedMain] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.49]
+2025-11-27 15:54:12 [restartedMain] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2025-11-27 15:54:12 [restartedMain] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1684 ms
+2025-11-27 15:54:12 [restartedMain] INFO  o.h.jpa.internal.util.LogHelper - HHH000204: Processing PersistenceUnitInfo [name: default]
+2025-11-27 15:54:13 [restartedMain] INFO  org.hibernate.Version - HHH000412: Hibernate ORM core version 6.6.36.Final
+2025-11-27 15:54:13 [restartedMain] INFO  o.h.c.i.RegionFactoryInitiator - HHH000026: Second-level cache disabled
+2025-11-27 15:54:13 [restartedMain] INFO  o.s.o.j.p.SpringPersistenceUnitInfo - No LoadTimeWeaver setup: ignoring JPA class transformer
+2025-11-27 15:54:13 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2025-11-27 15:54:13 [restartedMain] INFO  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Added connection conn0: url=jdbc:h2:mem:testdb user=SA
+2025-11-27 15:54:13 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2025-11-27 15:54:13 [restartedMain] WARN  org.hibernate.orm.deprecation - HHH90000025: H2Dialect does not need to be specified explicitly using 'hibernate.dialect' (remove the property setting and it will be selected by default)
+2025-11-27 15:54:13 [restartedMain] INFO  o.hibernate.orm.connections.pooling - HHH10001005: Database info:
+	Database JDBC URL [Connecting through datasource 'HikariDataSource (HikariPool-1)']
+	Database driver: undefined/unknown
+	Database version: 2.3.232
+	Autocommit mode: undefined/unknown
+	Isolation level: undefined/unknown
+	Minimum pool size: undefined/unknown
+	Maximum pool size: undefined/unknown
+2025-11-27 15:54:14 [restartedMain] INFO  o.h.e.t.j.p.i.JtaPlatformInitiator - HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2025-11-27 15:54:14 [restartedMain] DEBUG org.hibernate.SQL - 
+    drop table if exists produtos cascade 
+2025-11-27 15:54:14 [restartedMain] DEBUG org.hibernate.SQL - 
+    create table produtos (
+        custo_fixo_mensal numeric(38,2) not null,
+        custo_fixo_por_unidade numeric(38,2),
+        custo_total_base numeric(38,2),
+        impostos_custos_variaveis numeric(38,2) not null,
+        lucro_bruto_por_unidade numeric(38,2),
+        lucro_mensal numeric(38,2),
+        margem_bruta numeric(38,2),
+        margem_desejada numeric(38,2) not null,
+        ponto_equilibrio numeric(38,2),
+        preco_custo numeric(38,2) not null,
+        preco_ideal numeric(38,2),
+        quantidade_estimada integer not null,
+        receita numeric(38,2),
+        id bigint generated by default as identity,
+        categoria varchar(255) not null,
+        nome varchar(255) not null,
+        primary key (id)
+    )
+2025-11-27 15:54:14 [restartedMain] INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2025-11-27 15:54:14 [restartedMain] WARN  o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2025-11-27 15:54:15 [restartedMain] INFO  o.s.b.a.h.H2ConsoleAutoConfiguration - H2 console available at '/h2-console'. Database available at 'jdbc:h2:mem:testdb'
+2025-11-27 15:54:15 [restartedMain] INFO  o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729
+2025-11-27 15:54:15 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port 8080 (http) with context path '/'
+2025-11-27 15:54:15 [restartedMain] INFO  c.e.p.PrecificacaoApplication - Started PrecificacaoApplication in 4.811 seconds (process running for 5.402)
+2025-11-27 15:54:24 [http-nio-8080-exec-7] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-11-27 15:54:24 [http-nio-8080-exec-7] INFO  o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2025-11-27 15:54:24 [http-nio-8080-exec-7] INFO  o.s.web.servlet.DispatcherServlet - Completed initialization in 1 ms
+2025-11-27 15:54:24 [http-nio-8080-exec-7] INFO  c.e.p.controller.ProdutoController - Iniciando listagem de todos os produtos
+2025-11-27 15:54:24 [http-nio-8080-exec-7] DEBUG org.hibernate.SQL - 
+    select
+        p1_0.id,
+        p1_0.categoria,
+        p1_0.custo_fixo_mensal,
+        p1_0.custo_fixo_por_unidade,
+        p1_0.custo_total_base,
+        p1_0.impostos_custos_variaveis,
+        p1_0.lucro_bruto_por_unidade,
+        p1_0.lucro_mensal,
+        p1_0.margem_bruta,
+        p1_0.margem_desejada,
+        p1_0.nome,
+        p1_0.ponto_equilibrio,
+        p1_0.preco_custo,
+        p1_0.preco_ideal,
+        p1_0.quantidade_estimada,
+        p1_0.receita 
+    from
+        produtos p1_0
+2025-11-27 15:54:24 [http-nio-8080-exec-7] INFO  c.e.p.controller.ProdutoController - Total de produtos encontrados: 0
+2025-11-27 15:55:47 [http-nio-8080-exec-3] INFO  c.e.p.controller.ProdutoController - Iniciando criação de novo produto: Perfume 1
+2025-11-27 15:55:47 [http-nio-8080-exec-3] DEBUG org.hibernate.SQL - 
+    select
+        p1_0.id,
+        p1_0.categoria,
+        p1_0.custo_fixo_mensal,
+        p1_0.custo_fixo_por_unidade,
+        p1_0.custo_total_base,
+        p1_0.impostos_custos_variaveis,
+        p1_0.lucro_bruto_por_unidade,
+        p1_0.lucro_mensal,
+        p1_0.margem_bruta,
+        p1_0.margem_desejada,
+        p1_0.nome,
+        p1_0.ponto_equilibrio,
+        p1_0.preco_custo,
+        p1_0.preco_ideal,
+        p1_0.quantidade_estimada,
+        p1_0.receita 
+    from
+        produtos p1_0
+2025-11-27 15:55:47 [http-nio-8080-exec-3] DEBUG org.hibernate.SQL - 
+    insert 
+    into
+        produtos
+        (categoria, custo_fixo_mensal, custo_fixo_por_unidade, custo_total_base, impostos_custos_variaveis, lucro_bruto_por_unidade, lucro_mensal, margem_bruta, margem_desejada, nome, ponto_equilibrio, preco_custo, preco_ideal, quantidade_estimada, receita, id) 
+    values
+        (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, default)
+2025-11-27 15:55:47 [http-nio-8080-exec-3] INFO  c.e.p.controller.ProdutoController - Iniciando recálculo de todos os produtos
+2025-11-27 15:55:47 [http-nio-8080-exec-3] DEBUG org.hibernate.SQL - 
+    select
+        p1_0.id,
+        p1_0.categoria,
+        p1_0.custo_fixo_mensal,
+        p1_0.custo_fixo_por_unidade,
+        p1_0.custo_total_base,
+        p1_0.impostos_custos_variaveis,
+        p1_0.lucro_bruto_por_unidade,
+        p1_0.lucro_mensal,
+        p1_0.margem_bruta,
+        p1_0.margem_desejada,
+        p1_0.nome,
+        p1_0.ponto_equilibrio,
+        p1_0.preco_custo,
+        p1_0.preco_ideal,
+        p1_0.quantidade_estimada,
+        p1_0.receita 
+    from
+        produtos p1_0
+2025-11-27 15:55:47 [http-nio-8080-exec-3] INFO  c.e.p.controller.ProdutoController - Recálculo de 1 produtos concluído
+2025-11-27 15:55:47 [http-nio-8080-exec-3] INFO  c.e.p.controller.ProdutoController - Produto criado com sucesso: Perfume 1 (ID: 1)
+2025-11-27 15:55:49 [http-nio-8080-exec-5] INFO  c.e.p.controller.ProdutoController - Iniciando listagem de todos os produtos
+2025-11-27 15:55:49 [http-nio-8080-exec-5] DEBUG org.hibernate.SQL - 
+    select
+        p1_0.id,
+        p1_0.categoria,
+        p1_0.custo_fixo_mensal,
+        p1_0.custo_fixo_por_unidade,
+        p1_0.custo_total_base,
+        p1_0.impostos_custos_variaveis,
+        p1_0.lucro_bruto_por_unidade,
+        p1_0.lucro_mensal,
+        p1_0.margem_bruta,
+        p1_0.margem_desejada,
+        p1_0.nome,
+        p1_0.ponto_equilibrio,
+        p1_0.preco_custo,
+        p1_0.preco_ideal,
+        p1_0.quantidade_estimada,
+        p1_0.receita 
+    from
+        produtos p1_0
+2025-11-27 15:55:49 [http-nio-8080-exec-5] INFO  c.e.p.controller.ProdutoController - Total de produtos encontrados: 1
+2025-11-27 16:02:13 [SpringApplicationShutdownHook] INFO  o.s.b.w.e.tomcat.GracefulShutdown - Commencing graceful shutdown. Waiting for active requests to complete
+2025-11-27 16:02:13 [tomcat-shutdown] INFO  o.s.b.w.e.tomcat.GracefulShutdown - Graceful shutdown complete
+2025-11-27 16:02:13 [SpringApplicationShutdownHook] INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean - Closing JPA EntityManagerFactory for persistence unit 'default'
+2025-11-27 16:02:13 [SpringApplicationShutdownHook] DEBUG org.hibernate.SQL - 
+    drop table if exists produtos cascade 
+2025-11-27 16:02:13 [SpringApplicationShutdownHook] WARN  o.s.b.f.s.DisposableBeanAdapter - Invocation of destroy method failed on bean with name 'inMemoryDatabaseShutdownExecutor': org.h2.jdbc.JdbcSQLNonTransientConnectionException: Database is already closed (to disable automatic closing at VM shutdown, add ";DB_CLOSE_ON_EXIT=FALSE" to the db URL) [90121-232]
+2025-11-27 16:02:13 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+2025-11-27 16:02:13 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+2025-11-27 16:03:53 [restartedMain] INFO  c.e.p.PrecificacaoApplication - Starting PrecificacaoApplication using Java 25 with PID 2044 (C:\Users\werne\IdeaProjects\erp-precificacao\backend\target\classes started by werne in C:\Users\werne\IdeaProjects\erp-precificacao)
+2025-11-27 16:03:53 [restartedMain] INFO  c.e.p.PrecificacaoApplication - No active profile set, falling back to 1 default profile: "default"
+2025-11-27 16:03:53 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2025-11-27 16:03:53 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2025-11-27 16:03:54 [restartedMain] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2025-11-27 16:03:54 [restartedMain] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 55 ms. Found 1 JPA repository interface.
+2025-11-27 16:03:55 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port 8080 (http)
+2025-11-27 16:03:55 [restartedMain] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2025-11-27 16:03:55 [restartedMain] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.49]
+2025-11-27 16:03:55 [restartedMain] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2025-11-27 16:03:55 [restartedMain] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1692 ms
+2025-11-27 16:03:55 [restartedMain] INFO  o.h.jpa.internal.util.LogHelper - HHH000204: Processing PersistenceUnitInfo [name: default]
+2025-11-27 16:03:55 [restartedMain] INFO  org.hibernate.Version - HHH000412: Hibernate ORM core version 6.6.36.Final
+2025-11-27 16:03:55 [restartedMain] INFO  o.h.c.i.RegionFactoryInitiator - HHH000026: Second-level cache disabled
+2025-11-27 16:03:56 [restartedMain] INFO  o.s.o.j.p.SpringPersistenceUnitInfo - No LoadTimeWeaver setup: ignoring JPA class transformer
+2025-11-27 16:03:56 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2025-11-27 16:03:56 [restartedMain] INFO  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Added connection conn0: url=jdbc:h2:mem:testdb user=SA
+2025-11-27 16:03:56 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2025-11-27 16:03:56 [restartedMain] WARN  org.hibernate.orm.deprecation - HHH90000025: H2Dialect does not need to be specified explicitly using 'hibernate.dialect' (remove the property setting and it will be selected by default)
+2025-11-27 16:03:56 [restartedMain] INFO  o.hibernate.orm.connections.pooling - HHH10001005: Database info:
+	Database JDBC URL [Connecting through datasource 'HikariDataSource (HikariPool-1)']
+	Database driver: undefined/unknown
+	Database version: 2.3.232
+	Autocommit mode: undefined/unknown
+	Isolation level: undefined/unknown
+	Minimum pool size: undefined/unknown
+	Maximum pool size: undefined/unknown
+2025-11-27 16:03:57 [restartedMain] INFO  o.h.e.t.j.p.i.JtaPlatformInitiator - HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2025-11-27 16:03:57 [restartedMain] DEBUG org.hibernate.SQL - 
+    drop table if exists produtos cascade 
+2025-11-27 16:03:57 [restartedMain] DEBUG org.hibernate.SQL - 
+    create table produtos (
+        custo_fixo_mensal numeric(38,2) not null,
+        custo_fixo_por_unidade numeric(38,2),
+        custo_total_base numeric(38,2),
+        impostos_custos_variaveis numeric(38,2) not null,
+        lucro_bruto_por_unidade numeric(38,2),
+        lucro_mensal numeric(38,2),
+        margem_bruta numeric(38,2),
+        margem_desejada numeric(38,2) not null,
+        ponto_equilibrio numeric(38,2),
+        preco_custo numeric(38,2) not null,
+        preco_ideal numeric(38,2),
+        quantidade_estimada integer not null,
+        receita numeric(38,2),
+        id bigint generated by default as identity,
+        categoria varchar(255) not null,
+        nome varchar(255) not null,
+        primary key (id)
+    )
+2025-11-27 16:03:57 [restartedMain] INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2025-11-27 16:03:57 [restartedMain] WARN  o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2025-11-27 16:03:57 [restartedMain] INFO  o.s.b.a.h.H2ConsoleAutoConfiguration - H2 console available at '/h2-console'. Database available at 'jdbc:h2:mem:testdb'
+2025-11-27 16:03:58 [restartedMain] INFO  o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729
+2025-11-27 16:03:58 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port 8080 (http) with context path '/'
+2025-11-27 16:03:58 [restartedMain] INFO  c.e.p.PrecificacaoApplication - Started PrecificacaoApplication in 4.942 seconds (process running for 5.555)
+2025-11-27 16:04:07 [http-nio-8080-exec-1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-11-27 16:04:07 [http-nio-8080-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2025-11-27 16:04:07 [http-nio-8080-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Completed initialization in 0 ms
+2025-11-27 16:04:07 [http-nio-8080-exec-1] INFO  c.e.p.controller.ProdutoController - Iniciando listagem de todos os produtos
+2025-11-27 16:04:07 [http-nio-8080-exec-1] DEBUG org.hibernate.SQL - 
+    select
+        p1_0.id,
+        p1_0.categoria,
+        p1_0.custo_fixo_mensal,
+        p1_0.custo_fixo_por_unidade,
+        p1_0.custo_total_base,
+        p1_0.impostos_custos_variaveis,
+        p1_0.lucro_bruto_por_unidade,
+        p1_0.lucro_mensal,
+        p1_0.margem_bruta,
+        p1_0.margem_desejada,
+        p1_0.nome,
+        p1_0.ponto_equilibrio,
+        p1_0.preco_custo,
+        p1_0.preco_ideal,
+        p1_0.quantidade_estimada,
+        p1_0.receita 
+    from
+        produtos p1_0
+2025-11-27 16:04:07 [http-nio-8080-exec-1] INFO  c.e.p.controller.ProdutoController - Total de produtos encontrados: 0
+2025-11-27 16:04:51 [http-nio-8080-exec-2] INFO  c.e.p.controller.ProdutoController - Iniciando criação de novo produto: Caneta Azul
+2025-11-27 16:04:51 [http-nio-8080-exec-2] DEBUG org.hibernate.SQL - 
+    select
+        p1_0.id,
+        p1_0.categoria,
+        p1_0.custo_fixo_mensal,
+        p1_0.custo_fixo_por_unidade,
+        p1_0.custo_total_base,
+        p1_0.impostos_custos_variaveis,
+        p1_0.lucro_bruto_por_unidade,
+        p1_0.lucro_mensal,
+        p1_0.margem_bruta,
+        p1_0.margem_desejada,
+        p1_0.nome,
+        p1_0.ponto_equilibrio,
+        p1_0.preco_custo,
+        p1_0.preco_ideal,
+        p1_0.quantidade_estimada,
+        p1_0.receita 
+    from
+        produtos p1_0
+2025-11-27 16:04:51 [http-nio-8080-exec-2] DEBUG org.hibernate.SQL - 
+    insert 
+    into
+        produtos
+        (categoria, custo_fixo_mensal, custo_fixo_por_unidade, custo_total_base, impostos_custos_variaveis, lucro_bruto_por_unidade, lucro_mensal, margem_bruta, margem_desejada, nome, ponto_equilibrio, preco_custo, preco_ideal, quantidade_estimada, receita, id) 
+    values
+        (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, default)
+2025-11-27 16:04:51 [http-nio-8080-exec-2] INFO  c.e.p.controller.ProdutoController - Iniciando recálculo de todos os produtos
+2025-11-27 16:04:51 [http-nio-8080-exec-2] DEBUG org.hibernate.SQL - 
+    select
+        p1_0.id,
+        p1_0.categoria,
+        p1_0.custo_fixo_mensal,
+        p1_0.custo_fixo_por_unidade,
+        p1_0.custo_total_base,
+        p1_0.impostos_custos_variaveis,
+        p1_0.lucro_bruto_por_unidade,
+        p1_0.lucro_mensal,
+        p1_0.margem_bruta,
+        p1_0.margem_desejada,
+        p1_0.nome,
+        p1_0.ponto_equilibrio,
+        p1_0.preco_custo,
+        p1_0.preco_ideal,
+        p1_0.quantidade_estimada,
+        p1_0.receita 
+    from
+        produtos p1_0
+2025-11-27 16:04:51 [http-nio-8080-exec-2] INFO  c.e.p.controller.ProdutoController - Recálculo de 1 produtos concluído
+2025-11-27 16:04:51 [http-nio-8080-exec-2] INFO  c.e.p.controller.ProdutoController - Produto criado com sucesso: Caneta Azul (ID: 1)
+2025-11-27 16:04:53 [http-nio-8080-exec-8] INFO  c.e.p.controller.ProdutoController - Iniciando listagem de todos os produtos
+2025-11-27 16:04:53 [http-nio-8080-exec-8] DEBUG org.hibernate.SQL - 
+    select
+        p1_0.id,
+        p1_0.categoria,
+        p1_0.custo_fixo_mensal,
+        p1_0.custo_fixo_por_unidade,
+        p1_0.custo_total_base,
+        p1_0.impostos_custos_variaveis,
+        p1_0.lucro_bruto_por_unidade,
+        p1_0.lucro_mensal,
+        p1_0.margem_bruta,
+        p1_0.margem_desejada,
+        p1_0.nome,
+        p1_0.ponto_equilibrio,
+        p1_0.preco_custo,
+        p1_0.preco_ideal,
+        p1_0.quantidade_estimada,
+        p1_0.receita 
+    from
+        produtos p1_0
+2025-11-27 16:04:53 [http-nio-8080-exec-8] INFO  c.e.p.controller.ProdutoController - Total de produtos encontrados: 1
+2025-11-27 16:04:56 [http-nio-8080-exec-10] INFO  c.e.p.controller.ProdutoController - Iniciando listagem de todos os produtos
+2025-11-27 16:04:56 [http-nio-8080-exec-10] DEBUG org.hibernate.SQL - 
+    select
+        p1_0.id,
+        p1_0.categoria,
+        p1_0.custo_fixo_mensal,
+        p1_0.custo_fixo_por_unidade,
+        p1_0.custo_total_base,
+        p1_0.impostos_custos_variaveis,
+        p1_0.lucro_bruto_por_unidade,
+        p1_0.lucro_mensal,
+        p1_0.margem_bruta,
+        p1_0.margem_desejada,
+        p1_0.nome,
+        p1_0.ponto_equilibrio,
+        p1_0.preco_custo,
+        p1_0.preco_ideal,
+        p1_0.quantidade_estimada,
+        p1_0.receita 
+    from
+        produtos p1_0
+2025-11-27 16:04:56 [http-nio-8080-exec-10] INFO  c.e.p.controller.ProdutoController - Total de produtos encontrados: 1
+2025-11-27 16:05:32 [http-nio-8080-exec-4] INFO  c.e.p.controller.ProdutoController - Iniciando listagem de todos os produtos
+2025-11-27 16:05:32 [http-nio-8080-exec-4] DEBUG org.hibernate.SQL - 
+    select
+        p1_0.id,
+        p1_0.categoria,
+        p1_0.custo_fixo_mensal,
+        p1_0.custo_fixo_por_unidade,
+        p1_0.custo_total_base,
+        p1_0.impostos_custos_variaveis,
+        p1_0.lucro_bruto_por_unidade,
+        p1_0.lucro_mensal,
+        p1_0.margem_bruta,
+        p1_0.margem_desejada,
+        p1_0.nome,
+        p1_0.ponto_equilibrio,
+        p1_0.preco_custo,
+        p1_0.preco_ideal,
+        p1_0.quantidade_estimada,
+        p1_0.receita 
+    from
+        produtos p1_0
+2025-11-27 16:05:32 [http-nio-8080-exec-4] INFO  c.e.p.controller.ProdutoController - Total de produtos encontrados: 1
+2025-11-27 16:07:34 [http-nio-8080-exec-7] INFO  c.e.p.controller.ProdutoController - Iniciando listagem de todos os produtos
+2025-11-27 16:07:34 [http-nio-8080-exec-7] DEBUG org.hibernate.SQL - 
+    select
+        p1_0.id,
+        p1_0.categoria,
+        p1_0.custo_fixo_mensal,
+        p1_0.custo_fixo_por_unidade,
+        p1_0.custo_total_base,
+        p1_0.impostos_custos_variaveis,
+        p1_0.lucro_bruto_por_unidade,
+        p1_0.lucro_mensal,
+        p1_0.margem_bruta,
+        p1_0.margem_desejada,
+        p1_0.nome,
+        p1_0.ponto_equilibrio,
+        p1_0.preco_custo,
+        p1_0.preco_ideal,
+        p1_0.quantidade_estimada,
+        p1_0.receita 
+    from
+        produtos p1_0
+2025-11-27 16:07:34 [http-nio-8080-exec-7] INFO  c.e.p.controller.ProdutoController - Total de produtos encontrados: 1
+2025-11-27 16:07:54 [http-nio-8080-exec-3] INFO  c.e.p.controller.ProdutoController - Iniciando listagem de todos os produtos
+2025-11-27 16:07:55 [http-nio-8080-exec-3] DEBUG org.hibernate.SQL - 
+    select
+        p1_0.id,
+        p1_0.categoria,
+        p1_0.custo_fixo_mensal,
+        p1_0.custo_fixo_por_unidade,
+        p1_0.custo_total_base,
+        p1_0.impostos_custos_variaveis,
+        p1_0.lucro_bruto_por_unidade,
+        p1_0.lucro_mensal,
+        p1_0.margem_bruta,
+        p1_0.margem_desejada,
+        p1_0.nome,
+        p1_0.ponto_equilibrio,
+        p1_0.preco_custo,
+        p1_0.preco_ideal,
+        p1_0.quantidade_estimada,
+        p1_0.receita 
+    from
+        produtos p1_0
+2025-11-27 16:07:55 [http-nio-8080-exec-3] INFO  c.e.p.controller.ProdutoController - Total de produtos encontrados: 1
+2025-11-27 16:40:10 [http-nio-8080-exec-5] INFO  c.e.p.controller.ProdutoController - Iniciando listagem de todos os produtos
+2025-11-27 16:40:10 [http-nio-8080-exec-5] DEBUG org.hibernate.SQL - 
+    select
+        p1_0.id,
+        p1_0.categoria,
+        p1_0.custo_fixo_mensal,
+        p1_0.custo_fixo_por_unidade,
+        p1_0.custo_total_base,
+        p1_0.impostos_custos_variaveis,
+        p1_0.lucro_bruto_por_unidade,
+        p1_0.lucro_mensal,
+        p1_0.margem_bruta,
+        p1_0.margem_desejada,
+        p1_0.nome,
+        p1_0.ponto_equilibrio,
+        p1_0.preco_custo,
+        p1_0.preco_ideal,
+        p1_0.quantidade_estimada,
+        p1_0.receita 
+    from
+        produtos p1_0
+2025-11-27 16:40:10 [http-nio-8080-exec-5] INFO  c.e.p.controller.ProdutoController - Total de produtos encontrados: 1
+2025-11-27 16:41:03 [http-nio-8080-exec-1] INFO  c.e.p.controller.ProdutoController - Iniciando listagem de todos os produtos
+2025-11-27 16:41:03 [http-nio-8080-exec-1] DEBUG org.hibernate.SQL - 
+    select
+        p1_0.id,
+        p1_0.categoria,
+        p1_0.custo_fixo_mensal,
+        p1_0.custo_fixo_por_unidade,
+        p1_0.custo_total_base,
+        p1_0.impostos_custos_variaveis,
+        p1_0.lucro_bruto_por_unidade,
+        p1_0.lucro_mensal,
+        p1_0.margem_bruta,
+        p1_0.margem_desejada,
+        p1_0.nome,
+        p1_0.ponto_equilibrio,
+        p1_0.preco_custo,
+        p1_0.preco_ideal,
+        p1_0.quantidade_estimada,
+        p1_0.receita 
+    from
+        produtos p1_0
+2025-11-27 16:41:03 [http-nio-8080-exec-1] INFO  c.e.p.controller.ProdutoController - Total de produtos encontrados: 1
+2025-11-27 16:42:42 [http-nio-8080-exec-8] INFO  c.e.p.controller.ProdutoController - Iniciando listagem de todos os produtos
+2025-11-27 16:42:42 [http-nio-8080-exec-8] DEBUG org.hibernate.SQL - 
+    select
+        p1_0.id,
+        p1_0.categoria,
+        p1_0.custo_fixo_mensal,
+        p1_0.custo_fixo_por_unidade,
+        p1_0.custo_total_base,
+        p1_0.impostos_custos_variaveis,
+        p1_0.lucro_bruto_por_unidade,
+        p1_0.lucro_mensal,
+        p1_0.margem_bruta,
+        p1_0.margem_desejada,
+        p1_0.nome,
+        p1_0.ponto_equilibrio,
+        p1_0.preco_custo,
+        p1_0.preco_ideal,
+        p1_0.quantidade_estimada,
+        p1_0.receita 
+    from
+        produtos p1_0
+2025-11-27 16:42:42 [http-nio-8080-exec-8] INFO  c.e.p.controller.ProdutoController - Total de produtos encontrados: 1
+2025-11-27 16:45:59 [http-nio-8080-exec-6] INFO  c.e.p.controller.ProdutoController - Iniciando deleção do produto: 1
+2025-11-27 16:46:00 [http-nio-8080-exec-6] DEBUG org.hibernate.SQL - 
+    select
+        count(*) 
+    from
+        produtos p1_0 
+    where
+        p1_0.id=?
+2025-11-27 16:46:00 [http-nio-8080-exec-6] DEBUG org.hibernate.SQL - 
+    select
+        p1_0.id,
+        p1_0.categoria,
+        p1_0.custo_fixo_mensal,
+        p1_0.custo_fixo_por_unidade,
+        p1_0.custo_total_base,
+        p1_0.impostos_custos_variaveis,
+        p1_0.lucro_bruto_por_unidade,
+        p1_0.lucro_mensal,
+        p1_0.margem_bruta,
+        p1_0.margem_desejada,
+        p1_0.nome,
+        p1_0.ponto_equilibrio,
+        p1_0.preco_custo,
+        p1_0.preco_ideal,
+        p1_0.quantidade_estimada,
+        p1_0.receita 
+    from
+        produtos p1_0 
+    where
+        p1_0.id=?
+2025-11-27 16:46:00 [http-nio-8080-exec-6] DEBUG org.hibernate.SQL - 
+    delete 
+    from
+        produtos 
+    where
+        id=?
+2025-11-27 16:46:00 [http-nio-8080-exec-6] INFO  c.e.p.controller.ProdutoController - Iniciando recálculo de todos os produtos
+2025-11-27 16:46:00 [http-nio-8080-exec-6] DEBUG org.hibernate.SQL - 
+    select
+        p1_0.id,
+        p1_0.categoria,
+        p1_0.custo_fixo_mensal,
+        p1_0.custo_fixo_por_unidade,
+        p1_0.custo_total_base,
+        p1_0.impostos_custos_variaveis,
+        p1_0.lucro_bruto_por_unidade,
+        p1_0.lucro_mensal,
+        p1_0.margem_bruta,
+        p1_0.margem_desejada,
+        p1_0.nome,
+        p1_0.ponto_equilibrio,
+        p1_0.preco_custo,
+        p1_0.preco_ideal,
+        p1_0.quantidade_estimada,
+        p1_0.receita 
+    from
+        produtos p1_0
+2025-11-27 16:46:00 [http-nio-8080-exec-6] INFO  c.e.p.controller.ProdutoController - Nenhum produto para recalcular
+2025-11-27 16:46:00 [http-nio-8080-exec-6] INFO  c.e.p.controller.ProdutoController - Produto deletado com sucesso: 1
+2025-11-27 16:46:00 [http-nio-8080-exec-7] INFO  c.e.p.controller.ProdutoController - Iniciando listagem de todos os produtos
+2025-11-27 16:46:00 [http-nio-8080-exec-7] DEBUG org.hibernate.SQL - 
+    select
+        p1_0.id,
+        p1_0.categoria,
+        p1_0.custo_fixo_mensal,
+        p1_0.custo_fixo_por_unidade,
+        p1_0.custo_total_base,
+        p1_0.impostos_custos_variaveis,
+        p1_0.lucro_bruto_por_unidade,
+        p1_0.lucro_mensal,
+        p1_0.margem_bruta,
+        p1_0.margem_desejada,
+        p1_0.nome,
+        p1_0.ponto_equilibrio,
+        p1_0.preco_custo,
+        p1_0.preco_ideal,
+        p1_0.quantidade_estimada,
+        p1_0.receita 
+    from
+        produtos p1_0
+2025-11-27 16:46:00 [http-nio-8080-exec-7] INFO  c.e.p.controller.ProdutoController - Total de produtos encontrados: 0
+2025-11-27 16:46:06 [http-nio-8080-exec-3] INFO  c.e.p.controller.ProdutoController - Iniciando listagem de todos os produtos
+2025-11-27 16:46:06 [http-nio-8080-exec-3] DEBUG org.hibernate.SQL - 
+    select
+        p1_0.id,
+        p1_0.categoria,
+        p1_0.custo_fixo_mensal,
+        p1_0.custo_fixo_por_unidade,
+        p1_0.custo_total_base,
+        p1_0.impostos_custos_variaveis,
+        p1_0.lucro_bruto_por_unidade,
+        p1_0.lucro_mensal,
+        p1_0.margem_bruta,
+        p1_0.margem_desejada,
+        p1_0.nome,
+        p1_0.ponto_equilibrio,
+        p1_0.preco_custo,
+        p1_0.preco_ideal,
+        p1_0.quantidade_estimada,
+        p1_0.receita 
+    from
+        produtos p1_0
+2025-11-27 16:46:06 [http-nio-8080-exec-3] INFO  c.e.p.controller.ProdutoController - Total de produtos encontrados: 0
+2025-11-27 16:48:54 [http-nio-8080-exec-5] INFO  c.e.p.controller.ProdutoController - Iniciando listagem de todos os produtos
+2025-11-27 16:48:54 [http-nio-8080-exec-5] DEBUG org.hibernate.SQL - 
+    select
+        p1_0.id,
+        p1_0.categoria,
+        p1_0.custo_fixo_mensal,
+        p1_0.custo_fixo_por_unidade,
+        p1_0.custo_total_base,
+        p1_0.impostos_custos_variaveis,
+        p1_0.lucro_bruto_por_unidade,
+        p1_0.lucro_mensal,
+        p1_0.margem_bruta,
+        p1_0.margem_desejada,
+        p1_0.nome,
+        p1_0.ponto_equilibrio,
+        p1_0.preco_custo,
+        p1_0.preco_ideal,
+        p1_0.quantidade_estimada,
+        p1_0.receita 
+    from
+        produtos p1_0
+2025-11-27 16:48:54 [http-nio-8080-exec-5] INFO  c.e.p.controller.ProdutoController - Total de produtos encontrados: 0
+2025-11-27 16:49:32 [http-nio-8080-exec-2] INFO  c.e.p.controller.ProdutoController - Iniciando criação de novo produto: Caneta Azul
+2025-11-27 16:49:32 [http-nio-8080-exec-2] DEBUG org.hibernate.SQL - 
+    select
+        p1_0.id,
+        p1_0.categoria,
+        p1_0.custo_fixo_mensal,
+        p1_0.custo_fixo_por_unidade,
+        p1_0.custo_total_base,
+        p1_0.impostos_custos_variaveis,
+        p1_0.lucro_bruto_por_unidade,
+        p1_0.lucro_mensal,
+        p1_0.margem_bruta,
+        p1_0.margem_desejada,
+        p1_0.nome,
+        p1_0.ponto_equilibrio,
+        p1_0.preco_custo,
+        p1_0.preco_ideal,
+        p1_0.quantidade_estimada,
+        p1_0.receita 
+    from
+        produtos p1_0
+2025-11-27 16:49:32 [http-nio-8080-exec-2] DEBUG org.hibernate.SQL - 
+    insert 
+    into
+        produtos
+        (categoria, custo_fixo_mensal, custo_fixo_por_unidade, custo_total_base, impostos_custos_variaveis, lucro_bruto_por_unidade, lucro_mensal, margem_bruta, margem_desejada, nome, ponto_equilibrio, preco_custo, preco_ideal, quantidade_estimada, receita, id) 
+    values
+        (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, default)
+2025-11-27 16:49:32 [http-nio-8080-exec-2] INFO  c.e.p.controller.ProdutoController - Iniciando recálculo de todos os produtos
+2025-11-27 16:49:32 [http-nio-8080-exec-2] DEBUG org.hibernate.SQL - 
+    select
+        p1_0.id,
+        p1_0.categoria,
+        p1_0.custo_fixo_mensal,
+        p1_0.custo_fixo_por_unidade,
+        p1_0.custo_total_base,
+        p1_0.impostos_custos_variaveis,
+        p1_0.lucro_bruto_por_unidade,
+        p1_0.lucro_mensal,
+        p1_0.margem_bruta,
+        p1_0.margem_desejada,
+        p1_0.nome,
+        p1_0.ponto_equilibrio,
+        p1_0.preco_custo,
+        p1_0.preco_ideal,
+        p1_0.quantidade_estimada,
+        p1_0.receita 
+    from
+        produtos p1_0
+2025-11-27 16:49:32 [http-nio-8080-exec-2] INFO  c.e.p.controller.ProdutoController - Recálculo de 1 produtos concluído
+2025-11-27 16:49:32 [http-nio-8080-exec-2] INFO  c.e.p.controller.ProdutoController - Produto criado com sucesso: Caneta Azul (ID: 2)
+2025-11-27 16:49:34 [http-nio-8080-exec-8] INFO  c.e.p.controller.ProdutoController - Iniciando listagem de todos os produtos
+2025-11-27 16:49:34 [http-nio-8080-exec-8] DEBUG org.hibernate.SQL - 
+    select
+        p1_0.id,
+        p1_0.categoria,
+        p1_0.custo_fixo_mensal,
+        p1_0.custo_fixo_por_unidade,
+        p1_0.custo_total_base,
+        p1_0.impostos_custos_variaveis,
+        p1_0.lucro_bruto_por_unidade,
+        p1_0.lucro_mensal,
+        p1_0.margem_bruta,
+        p1_0.margem_desejada,
+        p1_0.nome,
+        p1_0.ponto_equilibrio,
+        p1_0.preco_custo,
+        p1_0.preco_ideal,
+        p1_0.quantidade_estimada,
+        p1_0.receita 
+    from
+        produtos p1_0
+2025-11-27 16:49:34 [http-nio-8080-exec-8] INFO  c.e.p.controller.ProdutoController - Total de produtos encontrados: 1
+2025-11-27 16:49:37 [http-nio-8080-exec-10] INFO  c.e.p.controller.ProdutoController - Iniciando listagem de todos os produtos
+2025-11-27 16:49:37 [http-nio-8080-exec-10] DEBUG org.hibernate.SQL - 
+    select
+        p1_0.id,
+        p1_0.categoria,
+        p1_0.custo_fixo_mensal,
+        p1_0.custo_fixo_por_unidade,
+        p1_0.custo_total_base,
+        p1_0.impostos_custos_variaveis,
+        p1_0.lucro_bruto_por_unidade,
+        p1_0.lucro_mensal,
+        p1_0.margem_bruta,
+        p1_0.margem_desejada,
+        p1_0.nome,
+        p1_0.ponto_equilibrio,
+        p1_0.preco_custo,
+        p1_0.preco_ideal,
+        p1_0.quantidade_estimada,
+        p1_0.receita 
+    from
+        produtos p1_0
+2025-11-27 16:49:37 [http-nio-8080-exec-10] INFO  c.e.p.controller.ProdutoController - Total de produtos encontrados: 1
+2025-11-27 16:51:35 [http-nio-8080-exec-6] INFO  c.e.p.controller.ProdutoController - Buscando produto com ID: 2
+2025-11-27 16:51:35 [http-nio-8080-exec-6] DEBUG org.hibernate.SQL - 
+    select
+        p1_0.id,
+        p1_0.categoria,
+        p1_0.custo_fixo_mensal,
+        p1_0.custo_fixo_por_unidade,
+        p1_0.custo_total_base,
+        p1_0.impostos_custos_variaveis,
+        p1_0.lucro_bruto_por_unidade,
+        p1_0.lucro_mensal,
+        p1_0.margem_bruta,
+        p1_0.margem_desejada,
+        p1_0.nome,
+        p1_0.ponto_equilibrio,
+        p1_0.preco_custo,
+        p1_0.preco_ideal,
+        p1_0.quantidade_estimada,
+        p1_0.receita 
+    from
+        produtos p1_0 
+    where
+        p1_0.id=?
+2025-11-27 16:51:35 [http-nio-8080-exec-6] INFO  c.e.p.controller.ProdutoController - Produto encontrado: Caneta Azul (2)
+2025-11-27 16:51:42 [http-nio-8080-exec-3] INFO  c.e.p.controller.ProdutoController - Iniciando atualização do produto: 2
+2025-11-27 16:51:42 [http-nio-8080-exec-3] DEBUG org.hibernate.SQL - 
+    select
+        p1_0.id,
+        p1_0.categoria,
+        p1_0.custo_fixo_mensal,
+        p1_0.custo_fixo_por_unidade,
+        p1_0.custo_total_base,
+        p1_0.impostos_custos_variaveis,
+        p1_0.lucro_bruto_por_unidade,
+        p1_0.lucro_mensal,
+        p1_0.margem_bruta,
+        p1_0.margem_desejada,
+        p1_0.nome,
+        p1_0.ponto_equilibrio,
+        p1_0.preco_custo,
+        p1_0.preco_ideal,
+        p1_0.quantidade_estimada,
+        p1_0.receita 
+    from
+        produtos p1_0 
+    where
+        p1_0.id=?
+2025-11-27 16:51:42 [http-nio-8080-exec-3] INFO  c.e.p.controller.ProdutoController - Iniciando recálculo de todos os produtos
+2025-11-27 16:51:42 [http-nio-8080-exec-3] DEBUG org.hibernate.SQL - 
+    select
+        p1_0.id,
+        p1_0.categoria,
+        p1_0.custo_fixo_mensal,
+        p1_0.custo_fixo_por_unidade,
+        p1_0.custo_total_base,
+        p1_0.impostos_custos_variaveis,
+        p1_0.lucro_bruto_por_unidade,
+        p1_0.lucro_mensal,
+        p1_0.margem_bruta,
+        p1_0.margem_desejada,
+        p1_0.nome,
+        p1_0.ponto_equilibrio,
+        p1_0.preco_custo,
+        p1_0.preco_ideal,
+        p1_0.quantidade_estimada,
+        p1_0.receita 
+    from
+        produtos p1_0
+2025-11-27 16:51:42 [http-nio-8080-exec-3] DEBUG org.hibernate.SQL - 
+    update
+        produtos 
+    set
+        categoria=?,
+        custo_fixo_mensal=?,
+        custo_fixo_por_unidade=?,
+        custo_total_base=?,
+        impostos_custos_variaveis=?,
+        lucro_bruto_por_unidade=?,
+        lucro_mensal=?,
+        margem_bruta=?,
+        margem_desejada=?,
+        nome=?,
+        ponto_equilibrio=?,
+        preco_custo=?,
+        preco_ideal=?,
+        quantidade_estimada=?,
+        receita=? 
+    where
+        id=?
+2025-11-27 16:51:42 [http-nio-8080-exec-3] INFO  c.e.p.controller.ProdutoController - Recálculo de 1 produtos concluído
+2025-11-27 16:51:42 [http-nio-8080-exec-3] INFO  c.e.p.controller.ProdutoController - Produto atualizado com sucesso: Caneta Azul (ID: 2)
+2025-11-27 16:51:43 [http-nio-8080-exec-9] INFO  c.e.p.controller.ProdutoController - Iniciando listagem de todos os produtos
+2025-11-27 16:51:43 [http-nio-8080-exec-9] DEBUG org.hibernate.SQL - 
+    select
+        p1_0.id,
+        p1_0.categoria,
+        p1_0.custo_fixo_mensal,
+        p1_0.custo_fixo_por_unidade,
+        p1_0.custo_total_base,
+        p1_0.impostos_custos_variaveis,
+        p1_0.lucro_bruto_por_unidade,
+        p1_0.lucro_mensal,
+        p1_0.margem_bruta,
+        p1_0.margem_desejada,
+        p1_0.nome,
+        p1_0.ponto_equilibrio,
+        p1_0.preco_custo,
+        p1_0.preco_ideal,
+        p1_0.quantidade_estimada,
+        p1_0.receita 
+    from
+        produtos p1_0
+2025-11-27 16:51:43 [http-nio-8080-exec-9] INFO  c.e.p.controller.ProdutoController - Total de produtos encontrados: 1
+2025-11-27 16:51:55 [http-nio-8080-exec-5] INFO  c.e.p.controller.ProdutoController - Buscando produto com ID: 2
+2025-11-27 16:51:55 [http-nio-8080-exec-5] DEBUG org.hibernate.SQL - 
+    select
+        p1_0.id,
+        p1_0.categoria,
+        p1_0.custo_fixo_mensal,
+        p1_0.custo_fixo_por_unidade,
+        p1_0.custo_total_base,
+        p1_0.impostos_custos_variaveis,
+        p1_0.lucro_bruto_por_unidade,
+        p1_0.lucro_mensal,
+        p1_0.margem_bruta,
+        p1_0.margem_desejada,
+        p1_0.nome,
+        p1_0.ponto_equilibrio,
+        p1_0.preco_custo,
+        p1_0.preco_ideal,
+        p1_0.quantidade_estimada,
+        p1_0.receita 
+    from
+        produtos p1_0 
+    where
+        p1_0.id=?
+2025-11-27 16:51:55 [http-nio-8080-exec-5] INFO  c.e.p.controller.ProdutoController - Produto encontrado: Caneta Azul (2)
+2025-11-27 16:52:00 [http-nio-8080-exec-1] INFO  c.e.p.controller.ProdutoController - Iniciando atualização do produto: 2
+2025-11-27 16:52:00 [http-nio-8080-exec-1] DEBUG org.hibernate.SQL - 
+    select
+        p1_0.id,
+        p1_0.categoria,
+        p1_0.custo_fixo_mensal,
+        p1_0.custo_fixo_por_unidade,
+        p1_0.custo_total_base,
+        p1_0.impostos_custos_variaveis,
+        p1_0.lucro_bruto_por_unidade,
+        p1_0.lucro_mensal,
+        p1_0.margem_bruta,
+        p1_0.margem_desejada,
+        p1_0.nome,
+        p1_0.ponto_equilibrio,
+        p1_0.preco_custo,
+        p1_0.preco_ideal,
+        p1_0.quantidade_estimada,
+        p1_0.receita 
+    from
+        produtos p1_0 
+    where
+        p1_0.id=?
+2025-11-27 16:52:00 [http-nio-8080-exec-1] INFO  c.e.p.controller.ProdutoController - Iniciando recálculo de todos os produtos
+2025-11-27 16:52:00 [http-nio-8080-exec-1] DEBUG org.hibernate.SQL - 
+    select
+        p1_0.id,
+        p1_0.categoria,
+        p1_0.custo_fixo_mensal,
+        p1_0.custo_fixo_por_unidade,
+        p1_0.custo_total_base,
+        p1_0.impostos_custos_variaveis,
+        p1_0.lucro_bruto_por_unidade,
+        p1_0.lucro_mensal,
+        p1_0.margem_bruta,
+        p1_0.margem_desejada,
+        p1_0.nome,
+        p1_0.ponto_equilibrio,
+        p1_0.preco_custo,
+        p1_0.preco_ideal,
+        p1_0.quantidade_estimada,
+        p1_0.receita 
+    from
+        produtos p1_0
+2025-11-27 16:52:00 [http-nio-8080-exec-1] DEBUG org.hibernate.SQL - 
+    update
+        produtos 
+    set
+        categoria=?,
+        custo_fixo_mensal=?,
+        custo_fixo_por_unidade=?,
+        custo_total_base=?,
+        impostos_custos_variaveis=?,
+        lucro_bruto_por_unidade=?,
+        lucro_mensal=?,
+        margem_bruta=?,
+        margem_desejada=?,
+        nome=?,
+        ponto_equilibrio=?,
+        preco_custo=?,
+        preco_ideal=?,
+        quantidade_estimada=?,
+        receita=? 
+    where
+        id=?
+2025-11-27 16:52:00 [http-nio-8080-exec-1] INFO  c.e.p.controller.ProdutoController - Recálculo de 1 produtos concluído
+2025-11-27 16:52:00 [http-nio-8080-exec-1] INFO  c.e.p.controller.ProdutoController - Produto atualizado com sucesso: Caneta Azul (ID: 2)
+2025-11-27 16:52:01 [http-nio-8080-exec-2] INFO  c.e.p.controller.ProdutoController - Iniciando listagem de todos os produtos
+2025-11-27 16:52:01 [http-nio-8080-exec-2] DEBUG org.hibernate.SQL - 
+    select
+        p1_0.id,
+        p1_0.categoria,
+        p1_0.custo_fixo_mensal,
+        p1_0.custo_fixo_por_unidade,
+        p1_0.custo_total_base,
+        p1_0.impostos_custos_variaveis,
+        p1_0.lucro_bruto_por_unidade,
+        p1_0.lucro_mensal,
+        p1_0.margem_bruta,
+        p1_0.margem_desejada,
+        p1_0.nome,
+        p1_0.ponto_equilibrio,
+        p1_0.preco_custo,
+        p1_0.preco_ideal,
+        p1_0.quantidade_estimada,
+        p1_0.receita 
+    from
+        produtos p1_0
+2025-11-27 16:52:01 [http-nio-8080-exec-2] INFO  c.e.p.controller.ProdutoController - Total de produtos encontrados: 1
+2025-11-27 16:57:40 [http-nio-8080-exec-10] INFO  c.e.p.controller.ProdutoController - Iniciando listagem de todos os produtos
+2025-11-27 16:57:40 [http-nio-8080-exec-10] DEBUG org.hibernate.SQL - 
+    select
+        p1_0.id,
+        p1_0.categoria,
+        p1_0.custo_fixo_mensal,
+        p1_0.custo_fixo_por_unidade,
+        p1_0.custo_total_base,
+        p1_0.impostos_custos_variaveis,
+        p1_0.lucro_bruto_por_unidade,
+        p1_0.lucro_mensal,
+        p1_0.margem_bruta,
+        p1_0.margem_desejada,
+        p1_0.nome,
+        p1_0.ponto_equilibrio,
+        p1_0.preco_custo,
+        p1_0.preco_ideal,
+        p1_0.quantidade_estimada,
+        p1_0.receita 
+    from
+        produtos p1_0
+2025-11-27 16:57:40 [http-nio-8080-exec-10] INFO  c.e.p.controller.ProdutoController - Total de produtos encontrados: 1
+2025-11-27 17:00:42 [http-nio-8080-exec-6] INFO  c.e.p.controller.ProdutoController - Iniciando listagem de todos os produtos
+2025-11-27 17:00:42 [http-nio-8080-exec-6] DEBUG org.hibernate.SQL - 
+    select
+        p1_0.id,
+        p1_0.categoria,
+        p1_0.custo_fixo_mensal,
+        p1_0.custo_fixo_por_unidade,
+        p1_0.custo_total_base,
+        p1_0.impostos_custos_variaveis,
+        p1_0.lucro_bruto_por_unidade,
+        p1_0.lucro_mensal,
+        p1_0.margem_bruta,
+        p1_0.margem_desejada,
+        p1_0.nome,
+        p1_0.ponto_equilibrio,
+        p1_0.preco_custo,
+        p1_0.preco_ideal,
+        p1_0.quantidade_estimada,
+        p1_0.receita 
+    from
+        produtos p1_0
+2025-11-27 17:00:42 [http-nio-8080-exec-6] INFO  c.e.p.controller.ProdutoController - Total de produtos encontrados: 1
+2025-11-27 17:01:21 [http-nio-8080-exec-7] INFO  c.e.p.controller.ProdutoController - Iniciando listagem de todos os produtos
+2025-11-27 17:01:21 [http-nio-8080-exec-7] DEBUG org.hibernate.SQL - 
+    select
+        p1_0.id,
+        p1_0.categoria,
+        p1_0.custo_fixo_mensal,
+        p1_0.custo_fixo_por_unidade,
+        p1_0.custo_total_base,
+        p1_0.impostos_custos_variaveis,
+        p1_0.lucro_bruto_por_unidade,
+        p1_0.lucro_mensal,
+        p1_0.margem_bruta,
+        p1_0.margem_desejada,
+        p1_0.nome,
+        p1_0.ponto_equilibrio,
+        p1_0.preco_custo,
+        p1_0.preco_ideal,
+        p1_0.quantidade_estimada,
+        p1_0.receita 
+    from
+        produtos p1_0
+2025-11-27 17:01:22 [http-nio-8080-exec-7] INFO  c.e.p.controller.ProdutoController - Total de produtos encontrados: 1
+2025-11-27 17:01:37 [http-nio-8080-exec-3] INFO  c.e.p.controller.ProdutoController - Iniciando listagem de todos os produtos
+2025-11-27 17:01:37 [http-nio-8080-exec-3] DEBUG org.hibernate.SQL - 
+    select
+        p1_0.id,
+        p1_0.categoria,
+        p1_0.custo_fixo_mensal,
+        p1_0.custo_fixo_por_unidade,
+        p1_0.custo_total_base,
+        p1_0.impostos_custos_variaveis,
+        p1_0.lucro_bruto_por_unidade,
+        p1_0.lucro_mensal,
+        p1_0.margem_bruta,
+        p1_0.margem_desejada,
+        p1_0.nome,
+        p1_0.ponto_equilibrio,
+        p1_0.preco_custo,
+        p1_0.preco_ideal,
+        p1_0.quantidade_estimada,
+        p1_0.receita 
+    from
+        produtos p1_0
+2025-11-27 17:01:37 [http-nio-8080-exec-3] INFO  c.e.p.controller.ProdutoController - Total de produtos encontrados: 1
+2025-11-27 17:01:47 [http-nio-8080-exec-9] INFO  c.e.p.controller.ProdutoController - Iniciando listagem de todos os produtos
+2025-11-27 17:01:47 [http-nio-8080-exec-9] DEBUG org.hibernate.SQL - 
+    select
+        p1_0.id,
+        p1_0.categoria,
+        p1_0.custo_fixo_mensal,
+        p1_0.custo_fixo_por_unidade,
+        p1_0.custo_total_base,
+        p1_0.impostos_custos_variaveis,
+        p1_0.lucro_bruto_por_unidade,
+        p1_0.lucro_mensal,
+        p1_0.margem_bruta,
+        p1_0.margem_desejada,
+        p1_0.nome,
+        p1_0.ponto_equilibrio,
+        p1_0.preco_custo,
+        p1_0.preco_ideal,
+        p1_0.quantidade_estimada,
+        p1_0.receita 
+    from
+        produtos p1_0
+2025-11-27 17:01:47 [http-nio-8080-exec-9] INFO  c.e.p.controller.ProdutoController - Total de produtos encontrados: 1
+2025-11-27 17:01:59 [http-nio-8080-exec-5] INFO  c.e.p.controller.ProdutoController - Iniciando listagem de todos os produtos
+2025-11-27 17:01:59 [http-nio-8080-exec-5] DEBUG org.hibernate.SQL - 
+    select
+        p1_0.id,
+        p1_0.categoria,
+        p1_0.custo_fixo_mensal,
+        p1_0.custo_fixo_por_unidade,
+        p1_0.custo_total_base,
+        p1_0.impostos_custos_variaveis,
+        p1_0.lucro_bruto_por_unidade,
+        p1_0.lucro_mensal,
+        p1_0.margem_bruta,
+        p1_0.margem_desejada,
+        p1_0.nome,
+        p1_0.ponto_equilibrio,
+        p1_0.preco_custo,
+        p1_0.preco_ideal,
+        p1_0.quantidade_estimada,
+        p1_0.receita 
+    from
+        produtos p1_0
+2025-11-27 17:01:59 [http-nio-8080-exec-5] INFO  c.e.p.controller.ProdutoController - Total de produtos encontrados: 1
+2025-11-27 17:02:06 [http-nio-8080-exec-1] INFO  c.e.p.controller.ProdutoController - Iniciando listagem de todos os produtos
+2025-11-27 17:02:06 [http-nio-8080-exec-1] DEBUG org.hibernate.SQL - 
+    select
+        p1_0.id,
+        p1_0.categoria,
+        p1_0.custo_fixo_mensal,
+        p1_0.custo_fixo_por_unidade,
+        p1_0.custo_total_base,
+        p1_0.impostos_custos_variaveis,
+        p1_0.lucro_bruto_por_unidade,
+        p1_0.lucro_mensal,
+        p1_0.margem_bruta,
+        p1_0.margem_desejada,
+        p1_0.nome,
+        p1_0.ponto_equilibrio,
+        p1_0.preco_custo,
+        p1_0.preco_ideal,
+        p1_0.quantidade_estimada,
+        p1_0.receita 
+    from
+        produtos p1_0
+2025-11-27 17:02:06 [http-nio-8080-exec-1] INFO  c.e.p.controller.ProdutoController - Total de produtos encontrados: 1
+2025-11-27 17:02:15 [http-nio-8080-exec-2] INFO  c.e.p.controller.ProdutoController - Iniciando listagem de todos os produtos
+2025-11-27 17:02:15 [http-nio-8080-exec-2] DEBUG org.hibernate.SQL - 
+    select
+        p1_0.id,
+        p1_0.categoria,
+        p1_0.custo_fixo_mensal,
+        p1_0.custo_fixo_por_unidade,
+        p1_0.custo_total_base,
+        p1_0.impostos_custos_variaveis,
+        p1_0.lucro_bruto_por_unidade,
+        p1_0.lucro_mensal,
+        p1_0.margem_bruta,
+        p1_0.margem_desejada,
+        p1_0.nome,
+        p1_0.ponto_equilibrio,
+        p1_0.preco_custo,
+        p1_0.preco_ideal,
+        p1_0.quantidade_estimada,
+        p1_0.receita 
+    from
+        produtos p1_0
+2025-11-27 17:02:15 [http-nio-8080-exec-2] INFO  c.e.p.controller.ProdutoController - Total de produtos encontrados: 1
+2025-11-27 17:05:59 [http-nio-8080-exec-10] INFO  c.e.p.controller.ProdutoController - Iniciando listagem de todos os produtos
+2025-11-27 17:05:59 [http-nio-8080-exec-10] DEBUG org.hibernate.SQL - 
+    select
+        p1_0.id,
+        p1_0.categoria,
+        p1_0.custo_fixo_mensal,
+        p1_0.custo_fixo_por_unidade,
+        p1_0.custo_total_base,
+        p1_0.impostos_custos_variaveis,
+        p1_0.lucro_bruto_por_unidade,
+        p1_0.lucro_mensal,
+        p1_0.margem_bruta,
+        p1_0.margem_desejada,
+        p1_0.nome,
+        p1_0.ponto_equilibrio,
+        p1_0.preco_custo,
+        p1_0.preco_ideal,
+        p1_0.quantidade_estimada,
+        p1_0.receita 
+    from
+        produtos p1_0
+2025-11-27 17:05:59 [http-nio-8080-exec-10] INFO  c.e.p.controller.ProdutoController - Total de produtos encontrados: 1
+2025-11-27 17:10:45 [http-nio-8080-exec-6] INFO  c.e.p.controller.ProdutoController - Iniciando listagem de todos os produtos
+2025-11-27 17:10:45 [http-nio-8080-exec-6] DEBUG org.hibernate.SQL - 
+    select
+        p1_0.id,
+        p1_0.categoria,
+        p1_0.custo_fixo_mensal,
+        p1_0.custo_fixo_por_unidade,
+        p1_0.custo_total_base,
+        p1_0.impostos_custos_variaveis,
+        p1_0.lucro_bruto_por_unidade,
+        p1_0.lucro_mensal,
+        p1_0.margem_bruta,
+        p1_0.margem_desejada,
+        p1_0.nome,
+        p1_0.ponto_equilibrio,
+        p1_0.preco_custo,
+        p1_0.preco_ideal,
+        p1_0.quantidade_estimada,
+        p1_0.receita 
+    from
+        produtos p1_0
+2025-11-27 17:10:45 [http-nio-8080-exec-6] INFO  c.e.p.controller.ProdutoController - Total de produtos encontrados: 1
+2025-11-27 17:10:47 [http-nio-8080-exec-7] INFO  c.e.p.controller.ProdutoController - Iniciando listagem de todos os produtos
+2025-11-27 17:10:47 [http-nio-8080-exec-7] DEBUG org.hibernate.SQL - 
+    select
+        p1_0.id,
+        p1_0.categoria,
+        p1_0.custo_fixo_mensal,
+        p1_0.custo_fixo_por_unidade,
+        p1_0.custo_total_base,
+        p1_0.impostos_custos_variaveis,
+        p1_0.lucro_bruto_por_unidade,
+        p1_0.lucro_mensal,
+        p1_0.margem_bruta,
+        p1_0.margem_desejada,
+        p1_0.nome,
+        p1_0.ponto_equilibrio,
+        p1_0.preco_custo,
+        p1_0.preco_ideal,
+        p1_0.quantidade_estimada,
+        p1_0.receita 
+    from
+        produtos p1_0
+2025-11-27 17:10:47 [http-nio-8080-exec-7] INFO  c.e.p.controller.ProdutoController - Total de produtos encontrados: 1
+2025-11-27 17:10:50 [http-nio-8080-exec-3] INFO  c.e.p.controller.ProdutoController - Iniciando listagem de todos os produtos
+2025-11-27 17:10:50 [http-nio-8080-exec-3] DEBUG org.hibernate.SQL - 
+    select
+        p1_0.id,
+        p1_0.categoria,
+        p1_0.custo_fixo_mensal,
+        p1_0.custo_fixo_por_unidade,
+        p1_0.custo_total_base,
+        p1_0.impostos_custos_variaveis,
+        p1_0.lucro_bruto_por_unidade,
+        p1_0.lucro_mensal,
+        p1_0.margem_bruta,
+        p1_0.margem_desejada,
+        p1_0.nome,
+        p1_0.ponto_equilibrio,
+        p1_0.preco_custo,
+        p1_0.preco_ideal,
+        p1_0.quantidade_estimada,
+        p1_0.receita 
+    from
+        produtos p1_0
+2025-11-27 17:10:50 [http-nio-8080-exec-3] INFO  c.e.p.controller.ProdutoController - Total de produtos encontrados: 1
+2025-11-27 17:10:53 [http-nio-8080-exec-9] INFO  c.e.p.controller.ProdutoController - Iniciando listagem de todos os produtos
+2025-11-27 17:10:53 [http-nio-8080-exec-9] DEBUG org.hibernate.SQL - 
+    select
+        p1_0.id,
+        p1_0.categoria,
+        p1_0.custo_fixo_mensal,
+        p1_0.custo_fixo_por_unidade,
+        p1_0.custo_total_base,
+        p1_0.impostos_custos_variaveis,
+        p1_0.lucro_bruto_por_unidade,
+        p1_0.lucro_mensal,
+        p1_0.margem_bruta,
+        p1_0.margem_desejada,
+        p1_0.nome,
+        p1_0.ponto_equilibrio,
+        p1_0.preco_custo,
+        p1_0.preco_ideal,
+        p1_0.quantidade_estimada,
+        p1_0.receita 
+    from
+        produtos p1_0
+2025-11-27 17:10:53 [http-nio-8080-exec-9] INFO  c.e.p.controller.ProdutoController - Total de produtos encontrados: 1
+2025-11-27 17:10:55 [http-nio-8080-exec-5] INFO  c.e.p.controller.ProdutoController - Iniciando listagem de todos os produtos
+2025-11-27 17:10:55 [http-nio-8080-exec-5] DEBUG org.hibernate.SQL - 
+    select
+        p1_0.id,
+        p1_0.categoria,
+        p1_0.custo_fixo_mensal,
+        p1_0.custo_fixo_por_unidade,
+        p1_0.custo_total_base,
+        p1_0.impostos_custos_variaveis,
+        p1_0.lucro_bruto_por_unidade,
+        p1_0.lucro_mensal,
+        p1_0.margem_bruta,
+        p1_0.margem_desejada,
+        p1_0.nome,
+        p1_0.ponto_equilibrio,
+        p1_0.preco_custo,
+        p1_0.preco_ideal,
+        p1_0.quantidade_estimada,
+        p1_0.receita 
+    from
+        produtos p1_0
+2025-11-27 17:10:55 [http-nio-8080-exec-5] INFO  c.e.p.controller.ProdutoController - Total de produtos encontrados: 1
+2025-11-27 17:10:57 [http-nio-8080-exec-1] INFO  c.e.p.controller.ProdutoController - Iniciando listagem de todos os produtos
+2025-11-27 17:10:57 [http-nio-8080-exec-1] DEBUG org.hibernate.SQL - 
+    select
+        p1_0.id,
+        p1_0.categoria,
+        p1_0.custo_fixo_mensal,
+        p1_0.custo_fixo_por_unidade,
+        p1_0.custo_total_base,
+        p1_0.impostos_custos_variaveis,
+        p1_0.lucro_bruto_por_unidade,
+        p1_0.lucro_mensal,
+        p1_0.margem_bruta,
+        p1_0.margem_desejada,
+        p1_0.nome,
+        p1_0.ponto_equilibrio,
+        p1_0.preco_custo,
+        p1_0.preco_ideal,
+        p1_0.quantidade_estimada,
+        p1_0.receita 
+    from
+        produtos p1_0
+2025-11-27 17:10:57 [http-nio-8080-exec-1] INFO  c.e.p.controller.ProdutoController - Total de produtos encontrados: 1
+2025-11-27 17:11:05 [http-nio-8080-exec-2] INFO  c.e.p.controller.ProdutoController - Iniciando listagem de todos os produtos
+2025-11-27 17:11:06 [http-nio-8080-exec-2] DEBUG org.hibernate.SQL - 
+    select
+        p1_0.id,
+        p1_0.categoria,
+        p1_0.custo_fixo_mensal,
+        p1_0.custo_fixo_por_unidade,
+        p1_0.custo_total_base,
+        p1_0.impostos_custos_variaveis,
+        p1_0.lucro_bruto_por_unidade,
+        p1_0.lucro_mensal,
+        p1_0.margem_bruta,
+        p1_0.margem_desejada,
+        p1_0.nome,
+        p1_0.ponto_equilibrio,
+        p1_0.preco_custo,
+        p1_0.preco_ideal,
+        p1_0.quantidade_estimada,
+        p1_0.receita 
+    from
+        produtos p1_0
+2025-11-27 17:11:06 [http-nio-8080-exec-2] INFO  c.e.p.controller.ProdutoController - Total de produtos encontrados: 1
+2025-11-27 17:11:09 [http-nio-8080-exec-8] INFO  c.e.p.controller.ProdutoController - Iniciando listagem de todos os produtos
+2025-11-27 17:11:09 [http-nio-8080-exec-8] DEBUG org.hibernate.SQL - 
+    select
+        p1_0.id,
+        p1_0.categoria,
+        p1_0.custo_fixo_mensal,
+        p1_0.custo_fixo_por_unidade,
+        p1_0.custo_total_base,
+        p1_0.impostos_custos_variaveis,
+        p1_0.lucro_bruto_por_unidade,
+        p1_0.lucro_mensal,
+        p1_0.margem_bruta,
+        p1_0.margem_desejada,
+        p1_0.nome,
+        p1_0.ponto_equilibrio,
+        p1_0.preco_custo,
+        p1_0.preco_ideal,
+        p1_0.quantidade_estimada,
+        p1_0.receita 
+    from
+        produtos p1_0
+2025-11-27 17:11:09 [http-nio-8080-exec-8] INFO  c.e.p.controller.ProdutoController - Total de produtos encontrados: 1
+2025-11-27 17:13:54 [http-nio-8080-exec-4] INFO  c.e.p.controller.ProdutoController - Iniciando listagem de todos os produtos
+2025-11-27 17:13:54 [http-nio-8080-exec-4] DEBUG org.hibernate.SQL - 
+    select
+        p1_0.id,
+        p1_0.categoria,
+        p1_0.custo_fixo_mensal,
+        p1_0.custo_fixo_por_unidade,
+        p1_0.custo_total_base,
+        p1_0.impostos_custos_variaveis,
+        p1_0.lucro_bruto_por_unidade,
+        p1_0.lucro_mensal,
+        p1_0.margem_bruta,
+        p1_0.margem_desejada,
+        p1_0.nome,
+        p1_0.ponto_equilibrio,
+        p1_0.preco_custo,
+        p1_0.preco_ideal,
+        p1_0.quantidade_estimada,
+        p1_0.receita 
+    from
+        produtos p1_0
+2025-11-27 17:13:54 [http-nio-8080-exec-4] INFO  c.e.p.controller.ProdutoController - Total de produtos encontrados: 1
+2025-11-27 17:15:51 [http-nio-8080-exec-7] INFO  c.e.p.controller.ProdutoController - Iniciando listagem de todos os produtos
+2025-11-27 17:15:51 [http-nio-8080-exec-7] DEBUG org.hibernate.SQL - 
+    select
+        p1_0.id,
+        p1_0.categoria,
+        p1_0.custo_fixo_mensal,
+        p1_0.custo_fixo_por_unidade,
+        p1_0.custo_total_base,
+        p1_0.impostos_custos_variaveis,
+        p1_0.lucro_bruto_por_unidade,
+        p1_0.lucro_mensal,
+        p1_0.margem_bruta,
+        p1_0.margem_desejada,
+        p1_0.nome,
+        p1_0.ponto_equilibrio,
+        p1_0.preco_custo,
+        p1_0.preco_ideal,
+        p1_0.quantidade_estimada,
+        p1_0.receita 
+    from
+        produtos p1_0
+2025-11-27 17:15:51 [http-nio-8080-exec-7] INFO  c.e.p.controller.ProdutoController - Total de produtos encontrados: 1
+2025-11-27 17:16:01 [http-nio-8080-exec-3] INFO  c.e.p.controller.ProdutoController - Iniciando listagem de todos os produtos
+2025-11-27 17:16:01 [http-nio-8080-exec-3] DEBUG org.hibernate.SQL - 
+    select
+        p1_0.id,
+        p1_0.categoria,
+        p1_0.custo_fixo_mensal,
+        p1_0.custo_fixo_por_unidade,
+        p1_0.custo_total_base,
+        p1_0.impostos_custos_variaveis,
+        p1_0.lucro_bruto_por_unidade,
+        p1_0.lucro_mensal,
+        p1_0.margem_bruta,
+        p1_0.margem_desejada,
+        p1_0.nome,
+        p1_0.ponto_equilibrio,
+        p1_0.preco_custo,
+        p1_0.preco_ideal,
+        p1_0.quantidade_estimada,
+        p1_0.receita 
+    from
+        produtos p1_0
+2025-11-27 17:16:01 [http-nio-8080-exec-3] INFO  c.e.p.controller.ProdutoController - Total de produtos encontrados: 1
+2025-11-27 17:16:05 [http-nio-8080-exec-9] INFO  c.e.p.controller.ProdutoController - Iniciando listagem de todos os produtos
+2025-11-27 17:16:05 [http-nio-8080-exec-9] DEBUG org.hibernate.SQL - 
+    select
+        p1_0.id,
+        p1_0.categoria,
+        p1_0.custo_fixo_mensal,
+        p1_0.custo_fixo_por_unidade,
+        p1_0.custo_total_base,
+        p1_0.impostos_custos_variaveis,
+        p1_0.lucro_bruto_por_unidade,
+        p1_0.lucro_mensal,
+        p1_0.margem_bruta,
+        p1_0.margem_desejada,
+        p1_0.nome,
+        p1_0.ponto_equilibrio,
+        p1_0.preco_custo,
+        p1_0.preco_ideal,
+        p1_0.quantidade_estimada,
+        p1_0.receita 
+    from
+        produtos p1_0
+2025-11-27 17:16:05 [http-nio-8080-exec-9] INFO  c.e.p.controller.ProdutoController - Total de produtos encontrados: 1
+2025-11-27 17:18:18 [http-nio-8080-exec-1] INFO  c.e.p.controller.ProdutoController - Iniciando listagem de todos os produtos
+2025-11-27 17:18:18 [http-nio-8080-exec-1] DEBUG org.hibernate.SQL - 
+    select
+        p1_0.id,
+        p1_0.categoria,
+        p1_0.custo_fixo_mensal,
+        p1_0.custo_fixo_por_unidade,
+        p1_0.custo_total_base,
+        p1_0.impostos_custos_variaveis,
+        p1_0.lucro_bruto_por_unidade,
+        p1_0.lucro_mensal,
+        p1_0.margem_bruta,
+        p1_0.margem_desejada,
+        p1_0.nome,
+        p1_0.ponto_equilibrio,
+        p1_0.preco_custo,
+        p1_0.preco_ideal,
+        p1_0.quantidade_estimada,
+        p1_0.receita 
+    from
+        produtos p1_0
+2025-11-27 17:18:18 [http-nio-8080-exec-1] INFO  c.e.p.controller.ProdutoController - Total de produtos encontrados: 1
+2025-11-27 17:21:12 [http-nio-8080-exec-8] INFO  c.e.p.controller.ProdutoController - Iniciando listagem de todos os produtos
+2025-11-27 17:21:12 [http-nio-8080-exec-8] DEBUG org.hibernate.SQL - 
+    select
+        p1_0.id,
+        p1_0.categoria,
+        p1_0.custo_fixo_mensal,
+        p1_0.custo_fixo_por_unidade,
+        p1_0.custo_total_base,
+        p1_0.impostos_custos_variaveis,
+        p1_0.lucro_bruto_por_unidade,
+        p1_0.lucro_mensal,
+        p1_0.margem_bruta,
+        p1_0.margem_desejada,
+        p1_0.nome,
+        p1_0.ponto_equilibrio,
+        p1_0.preco_custo,
+        p1_0.preco_ideal,
+        p1_0.quantidade_estimada,
+        p1_0.receita 
+    from
+        produtos p1_0
+2025-11-27 17:21:12 [http-nio-8080-exec-8] INFO  c.e.p.controller.ProdutoController - Total de produtos encontrados: 1
+2025-11-27 17:21:43 [http-nio-8080-exec-10] INFO  c.e.p.controller.ProdutoController - Iniciando listagem de todos os produtos
+2025-11-27 17:21:43 [http-nio-8080-exec-10] DEBUG org.hibernate.SQL - 
+    select
+        p1_0.id,
+        p1_0.categoria,
+        p1_0.custo_fixo_mensal,
+        p1_0.custo_fixo_por_unidade,
+        p1_0.custo_total_base,
+        p1_0.impostos_custos_variaveis,
+        p1_0.lucro_bruto_por_unidade,
+        p1_0.lucro_mensal,
+        p1_0.margem_bruta,
+        p1_0.margem_desejada,
+        p1_0.nome,
+        p1_0.ponto_equilibrio,
+        p1_0.preco_custo,
+        p1_0.preco_ideal,
+        p1_0.quantidade_estimada,
+        p1_0.receita 
+    from
+        produtos p1_0
+2025-11-27 17:21:43 [http-nio-8080-exec-10] INFO  c.e.p.controller.ProdutoController - Total de produtos encontrados: 1
+2025-11-27 17:23:04 [http-nio-8080-exec-6] INFO  c.e.p.controller.ProdutoController - Iniciando listagem de todos os produtos
+2025-11-27 17:23:04 [http-nio-8080-exec-6] DEBUG org.hibernate.SQL - 
+    select
+        p1_0.id,
+        p1_0.categoria,
+        p1_0.custo_fixo_mensal,
+        p1_0.custo_fixo_por_unidade,
+        p1_0.custo_total_base,
+        p1_0.impostos_custos_variaveis,
+        p1_0.lucro_bruto_por_unidade,
+        p1_0.lucro_mensal,
+        p1_0.margem_bruta,
+        p1_0.margem_desejada,
+        p1_0.nome,
+        p1_0.ponto_equilibrio,
+        p1_0.preco_custo,
+        p1_0.preco_ideal,
+        p1_0.quantidade_estimada,
+        p1_0.receita 
+    from
+        produtos p1_0
+2025-11-27 17:23:04 [http-nio-8080-exec-6] INFO  c.e.p.controller.ProdutoController - Total de produtos encontrados: 1
+2025-11-27 17:27:40 [http-nio-8080-exec-3] INFO  c.e.p.controller.ProdutoController - Iniciando listagem de todos os produtos
+2025-11-27 17:27:40 [http-nio-8080-exec-3] DEBUG org.hibernate.SQL - 
+    select
+        p1_0.id,
+        p1_0.categoria,
+        p1_0.custo_fixo_mensal,
+        p1_0.custo_fixo_por_unidade,
+        p1_0.custo_total_base,
+        p1_0.impostos_custos_variaveis,
+        p1_0.lucro_bruto_por_unidade,
+        p1_0.lucro_mensal,
+        p1_0.margem_bruta,
+        p1_0.margem_desejada,
+        p1_0.nome,
+        p1_0.ponto_equilibrio,
+        p1_0.preco_custo,
+        p1_0.preco_ideal,
+        p1_0.quantidade_estimada,
+        p1_0.receita 
+    from
+        produtos p1_0
+2025-11-27 17:27:40 [http-nio-8080-exec-3] INFO  c.e.p.controller.ProdutoController - Total de produtos encontrados: 1
+2025-11-27 17:27:42 [http-nio-8080-exec-9] INFO  c.e.p.controller.ProdutoController - Iniciando listagem de todos os produtos
+2025-11-27 17:27:42 [http-nio-8080-exec-9] DEBUG org.hibernate.SQL - 
+    select
+        p1_0.id,
+        p1_0.categoria,
+        p1_0.custo_fixo_mensal,
+        p1_0.custo_fixo_por_unidade,
+        p1_0.custo_total_base,
+        p1_0.impostos_custos_variaveis,
+        p1_0.lucro_bruto_por_unidade,
+        p1_0.lucro_mensal,
+        p1_0.margem_bruta,
+        p1_0.margem_desejada,
+        p1_0.nome,
+        p1_0.ponto_equilibrio,
+        p1_0.preco_custo,
+        p1_0.preco_ideal,
+        p1_0.quantidade_estimada,
+        p1_0.receita 
+    from
+        produtos p1_0
+2025-11-27 17:27:42 [http-nio-8080-exec-9] INFO  c.e.p.controller.ProdutoController - Total de produtos encontrados: 1

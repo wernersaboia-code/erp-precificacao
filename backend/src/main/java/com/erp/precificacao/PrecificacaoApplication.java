@@ -2,12 +2,29 @@ package com.erp.precificacao;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
+import org.springframework.context.annotation.Bean;
+import org.springframework.web.servlet.config.annotation.CorsRegistry;
+import org.springframework.web.servlet.config.annotation.WebMvcConfigurer;
 
 @SpringBootApplication
 public class PrecificacaoApplication {
 
-	public static void main(String[] args) {
-		SpringApplication.run(PrecificacaoApplication.class, args);
-	}
+    public static void main(String[] args) {
+        SpringApplication.run(PrecificacaoApplication.class, args);
+    }
 
+    // 👇 ADICIONE ESTE BLOCO AQUI DENTRO 👇
+    @Bean
+    public WebMvcConfigurer corsConfigurer() {
+        return new WebMvcConfigurer() {
+            @Override
+            public void addCorsMappings(CorsRegistry registry) {
+                registry.addMapping("/**") // Liberar TUDO (não só /api)
+                        .allowedOrigins("http://localhost:4200") // Específico para seu Angular
+                        .allowedMethods("GET", "POST", "PUT", "DELETE", "OPTIONS")
+                        .allowedHeaders("*")
+                        .allowCredentials(true);
+            }
+        };
+    }
 }
